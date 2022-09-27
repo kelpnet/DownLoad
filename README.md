@@ -7,7 +7,7 @@
 <img src = "https://img.shields.io/badge/免费-blue"  /> <img src = "https://img.shields.io/badge/付费-orange"  /> <img src = "https://img.shields.io/badge/开源-green"  /> 
 
 ## 应用软件
-* 办公应用
+* 办公应用 
 * 图像处理
 * 远程控制
 * 影音播放
@@ -19,6 +19,7 @@
 * 计算机系统分析
 * 计算机网络分析
 * 计算机硬件分析
+* 游戏
 
 ## 系统软件
 * 系统驱动
