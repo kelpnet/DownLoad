@@ -48,6 +48,8 @@
   
 ###  图像处理 
   *  ###### Photop shop 【付费】
+  *  ###### Adobe illustrator【付费】
+  *  ###### Adobe indesign【付费】
   *  ###### Capture One【付费】
   *  ###### GIMP 【免费】
   *  ###### Krita 【免费】
@@ -81,6 +83,7 @@
  *  ###### VLC media player 【免费】
  *  ###### MPV 【免费】
  *  ###### MPC-HC【免费】
+ *  ###### OBS【免费】
  
 * * *
 
@@ -130,28 +133,39 @@
    *  ###### Comodo 【免费】 
    *  ###### ZoneAlarm Basic Firewall 【免费】
    *  ###### Online Armor Free 【免费】
-   
+ 
+ * * *  
+
 ### 计算机辅助设计
- * #### Autodesk
    *  ###### Autodesk CAD【收费】
    *  ###### Autodesk 3ds MAX【收费】
    *  ###### Autodesk Maya【收费】
- * #### Dassault Systèmes
    *  ###### SolidWorks【收费】
    *  ###### CATIA【收费】
- * #### Unigraphics
    *  ###### NX for Design【收费】
- * #### Rhino
    *  ###### Rhinoceros 【收费】
- * #### 中望
    *  ###### 中望CAD【收费】
    *  ###### 中望3D【收费】
- * #### CAXA
    *  ###### CAXA CAD【收费】
    *  ###### CAXA 3D【收费】
- * #### FreeCAD【免费】
- * #### QCAD【免费】
- * #### BRLCAD【免费】
- * #### gCAD3D【免费】
+   *  ###### FreeCAD【免费】
+   *  ###### QCAD【免费】
+   *  ###### BRLCAD【免费】
+   *  ###### gCAD3D【免费】
+ 
+* * *  
 
-  
+### 计算机辅助工程
+   *  ###### SIMULIA ISIGHT 【收费】
+   *  ###### ANYSYS【收费】
+   *  ###### Comsol【收费】
+   *  ###### Matalab【收费】
+ 
+* * *   
+
+### 计算机系统分析
+
+
+
+### 计算机网络分析
+   
