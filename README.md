@@ -6,9 +6,9 @@
 【付费】【免费】
 
 ## 应用软件
-* 办公应用 
-* 图像处理
-* 远程终端
+* [办公应用](https://github.com/kelpnet/DownLoad/blob/main/README.md#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
+* [图像处理]
+* [远程终端]
 * 影音播放
 * 文本编辑
 * 互联网软件
