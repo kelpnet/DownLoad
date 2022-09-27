@@ -31,23 +31,28 @@
   *  ###### Libre Office  【免费】
   *  ###### WPS 【免费】【付费】
 * #### PDF 阅读器 
-  * ###### Adobe Reader DC 【免费】
-  * ###### SumatraPDF 【免费】
-  * ###### 福昕PDF Reader 【免费】
+  *  ###### Adobe Reader DC 【免费】
+  *  ###### SumatraPDF 【免费】
+  *  ###### 福昕PDF Reader 【免费】
 * #### PDF 编辑器
-  * ###### 福昕PDF 编辑器 【免费】
+  *  ###### 福昕PDF 编辑器 【免费】
 * #### 文件压缩
   *  ###### winrar 【免费】【付费】
   *  ###### 7-zip 【免费】
   *  ###### 360zip 【免费】
-  *  ###### bondi-zip 【免费】
+  *  ###### bandi-zip 【免费】
   *  ###### winzip 【收费】
   
   * * * 
   
-###  图像处理  
-  
-  
+###  图像处理 
+  *  ###### Photop shop 【付费】
+  *  ###### Capture One【付费】
+  *  ###### GIMP 【免费】
+  *  ###### Krita 【免费】
+  *  ###### 看图王 【免费】
+  *  ###### ACDsee 【免费】【付费】
+  *  ###### image 【免费】
   
   
   
