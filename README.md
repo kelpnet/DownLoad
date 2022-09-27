@@ -7,13 +7,14 @@
 <img src = "https://img.shields.io/badge/免费-blue"  /> <img src = "https://img.shields.io/badge/付费-orange"  /> <img src = "https://img.shields.io/badge/开源-green"  /> 
 
 ## 应用软件
+* 办公应用
+* 杀毒软件
+* 互联网软件
+* 计算机辅助设计
+* 计算机辅助工程
+* 图像处理
+## 系统软件
+* 系统驱动
+* 系统映像
 
-## 办公软件
 
-## 设计软件
-
-## 工具软件
-
-## 聊天/即时通讯
-
-## 杀毒软件
