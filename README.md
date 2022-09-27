@@ -4,12 +4,12 @@
 > 软件都经过审核后才发布到这个页面上，供大家下载
 
 ## 软件标识
-<img src = "https://img.shields.io/badge/免费-blue"  /> <img src = "https://img.shields.io/badge/付费-orange"  /> <img src = "https://img.shields.io/badge/开源-green"  /> 
+【付费】【免费】
 
 ## 应用软件
 * 办公应用 
 * 图像处理
-* 远程控制
+* 远程终端
 * 影音播放
 * 文本编辑
 * 互联网软件
@@ -28,7 +28,7 @@
 * * * 
 ### 办公应用
 * #### OFFICE 
-  *  ###### Microsoft Office 【免费】
+  *  ###### Microsoft Office 【付费】
   *  ###### Libre Office  【免费】
   *  ###### WPS 【免费】【付费】
 * #### PDF 阅读器 
@@ -37,3 +37,26 @@
   * ###### 福昕PDF Reader 【免费】
 * #### PDF 编辑器
   * ###### 福昕PDF 编辑器 【免费】
+* #### 文件压缩
+  *  ###### winrar 【免费】【付费】
+  *  ###### 7-zip 【免费】
+  *  ###### 360zip 【免费】
+  *  ###### bondi-zip 【免费】
+  *  ###### winzip 【收费】
+  
+  * * * 
+  
+###  图像处理  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
