@@ -27,9 +27,13 @@
 
 * * * 
 ### 办公应用
-* OFFICE 
-  * Microsoft Office
-  * Libre Office
-  * WPS
-* PDF
-  
+* #### OFFICE 
+  *  ###### Microsoft Office 【免费】
+  *  ###### Libre Office  【免费】
+  *  ###### WPS 【免费】【付费】
+* #### PDF 阅读器 
+  * ###### Adobe Reader DC 【免费】
+  * ###### SumatraPDF 【免费】
+  * ###### 福昕PDF Reader 【免费】
+* #### PDF 编辑器
+  * ###### 福昕PDF 编辑器 【免费】
