@@ -52,15 +52,26 @@
   *  ###### Krita 【免费】
   *  ###### 看图王 【免费】
   *  ###### ACDsee 【免费】【付费】
-  *  ###### image 【免费】
+  *  ###### Imagine【免费】
+  *  ###### honeyview 【免费】
+  *  ###### XnView 【免费】
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+    * * * 
+    
+### 远程终端
+  *  ###### mstsc 【windows系统内置】【RDP协议】【免费】
+  *  ###### 向日葵 【内网穿透】【免费】
+  *  ###### RustDesk 【内网穿透】【免费】
+  *  ###### TodoDesk 【内网穿透】【免费】
+  *  ###### Parsec 【内网穿透】【免费】
+  *  ###### Radmin 【RDP协议】【付费】
+  *  ###### FreeRDP【RDP协议】【免费】
+  *  ###### PcAnyWhere【RDP协议】【付费】
+  *  ###### SecureCRT【ssh/telnet/serial】【付费】
+  *  ###### MobarXterm【ssh/telnet/console】【免费】
+  *  ###### Putty【ssh/telnet/console】【免费】
+  *  ###### RealVNC【VNC】【免费】
+  *  ###### TigerVNC【VNC】【免费】
+
+
+
