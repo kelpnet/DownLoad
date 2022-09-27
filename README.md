@@ -27,9 +27,9 @@
 
 * * * 
 ### 办公应用
-* OFFICE
-  * Microsoft Office 
-  * Libre Office
+* OFFICE 
+  * Microsoft Office <img src = "https://img.shields.io/badge/付费-orange"  />
+  * Libre Office <img src = "https://img.shields.io/badge/付费-orange"  /> <img src = "https://img.shields.io/badge/开源-green"  />
   * WPS
 * PDF
   
