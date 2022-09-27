@@ -18,9 +18,7 @@
 * [计算机系统分析](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90)
 * [计算机网络分析](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90)
 * [计算机硬件分析](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%88%86%E6%9E%90)
-* [数据恢复](https://kelpnet.github.io/DownLoad/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
-* [数据取证](https://kelpnet.github.io/DownLoad/#%E6%95%B0%E6%8D%AE%E5%8F%96%E8%AF%81)
-* [游戏](https://kelpnet.github.io/DownLoad/#%E6%B8%B8%E6%88%8F)
+* [游戏](https://kelpnet.github.io/DownLoad/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
 * [系统驱动]()
