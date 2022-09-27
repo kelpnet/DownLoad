@@ -127,5 +127,31 @@
  * #### 防火墙
    *  ###### windows defender【windows 系统内置】【免费】
    *  ###### 火绒 【免费】
-    
-    
+   *  ###### Comodo 【免费】 
+   *  ###### ZoneAlarm Basic Firewall 【免费】
+   *  ###### Online Armor Free 【免费】
+   
+### 计算机辅助设计
+ * #### Autodesk
+   *  ###### Autodesk CAD【收费】
+   *  ###### Autodesk 3ds MAX【收费】
+   *  ###### Autodesk Maya【收费】
+ * #### Dassault Systèmes
+   *  ###### SolidWorks【收费】
+   *  ###### CATIA【收费】
+ * #### Unigraphics
+   *  ###### NX for Design【收费】
+ * #### Rhino
+   *  ###### Rhinoceros 【收费】
+ * #### 中望
+   *  ###### 中望CAD【收费】
+   *  ###### 中望3D【收费】
+ * #### CAXA
+   *  ###### CAXA CAD【收费】
+   *  ###### CAXA 3D【收费】
+ * #### FreeCAD【免费】
+ * #### QCAD【免费】
+ * #### BRLCAD【免费】
+ * #### gCAD3D【免费】
+
+  
