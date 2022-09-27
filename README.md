@@ -164,8 +164,58 @@
 * * *   
 
 ### 计算机系统分析
-
-
+   *  ###### sysinternals-suite【免费】
+   *  ###### SpaceSniffer【免费】
+   *  ###### Dism++【免费】
+   *  ###### DiskGenius【免费】
+ 
+* * *   
 
 ### 计算机网络分析
-   
+   *  ###### tcping【免费】
+   *  ###### arping【免费】
+   *  ###### tcproute【免费】
+   *  ###### watchroute【免费】
+   *  ###### SubnetAbacus【免费】
+   *  ###### Nmap【免费】
+   *  ###### wireshark【免费】
+   *  ###### Fiddler【免费】
+   *  ###### Microsoft Network Monintor【免费】
+   *  ###### NetCat【免费】
+   *  ###### NNetSpot【免费】
+
+ 
+* * *   
+
+### 计算机硬件分析
+   *  ###### HD Tune Pro【免费】
+   *  ###### AS SSD【免费】
+   *  ###### CrystalDiskInfo【免费】
+   *  ###### CPU-Z【免费】
+   *  ###### Processor Identification Utility【免费】
+   *  ###### AMD CPU Info【免费】
+   *  ###### AIDA64【免费】
+  
+* * *
+
+### 数据恢复
+   *  ###### Recuva【免费】
+   *  ###### WinHex【免费】
+
+* * *
+
+### 数据取证
+   *  ###### Sleuth Kit(+Autopsy)【免费】
+   *  ###### Autopsy【免费】
+   *  ###### Browser History【免费】
+   *  ###### FTK Imager【免费】
+   *  ###### X-Ways Forensics【免费】
+   *  ###### CAINE【免费】
+   *  ###### Toolsley【免费】
+   *  ###### ExifTool【免费】
+  
+### 游戏
+   *  ###### 扫雷【免费】
+   *  ###### 蜘蛛纸牌【免费】
+   *  ###### 跳棋【免费】
+   *  ###### 国际象棋【免费】
