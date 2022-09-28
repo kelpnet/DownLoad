@@ -121,18 +121,18 @@
     *  ###### [迅雷]()【免费】
     *  ###### [easymule]()【免费】
   * #### 浏览器
-    *  ###### [Chrome]() 【网络安装版】【免费】
-    *  ###### [Chrome]() 【离线安装版】【免费】
-    *  ###### [FireFox]() 【网络安装版】【免费】
-    *  ###### [FireFox]() 【离线安装版】【免费】
-    *  ###### [Edge]()    【windows内置】【免费】
+    *  ###### [Chrome](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B8D5EFE80-6203-688F-9DE0-61BF2D4A04A2%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe) 【网络安装版】【免费】
+    *  ###### [Chrome](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B4C9BC1C0-E978-1D45-7289-38F4DB06DECF%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe) 【离线安装版】【免费】
+    *  ###### [FireFox](https://www.mozilla.org/zh-CN/firefox/download/thanks/) 【网络安装版】【免费】
+    *  ###### [FireFox](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release) 【离线安装版】【免费】
+    *  ###### [Edge](https://www.microsoft.com/zh-cn/edge)    【windows内置】【免费】
   * #### 聊天
     *  ###### [Wechat]()  【网页版】【免费】
     *  ###### [Wechat]() 【免费】
     *  ###### [QQ]()【免费】
     *  ###### [Line]() 【免费】
   * #### 电子邮箱客户端
-    *  ###### [ThunderMail]() 【免费】
+    *  ###### [ThunderMail](https://www.thunderbird.net/zh-CN/) 【免费】
     *  ###### [Foxmail]() 【免费】
     *  ###### [Sparkmail]() 【免费】【付费】
     *  ###### [OutLook]()  【microsoft office内置】【付费】
