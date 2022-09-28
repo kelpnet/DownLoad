@@ -95,25 +95,21 @@
   *  ###### [RealVNC](https://www.realvnc.com/en/)【VNC】【付费】
   *  ###### [TightVNC](https://www.tightvnc.com/)【VNC】【免费】
   *  ###### [PRemoteM](https://apps.microsoft.com/store/detail/premotem-mstsc-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9PNMNF92JNFP?hl=zh-cn&gl=cn)【VNC】【免费】
+  *  ###### [Navicat](http://www.navicat.com.cn/products)【所有数据库】【付费】
+    
   
 ⬆ [顶部]()
 
 * * *
 
 ### 文件传输
-  *  ###### [mstsc]() 【windows系统内置】【RDP协议】【免费】
-  *  ###### [向日葵](https://sunlogin.oray.com/download?categ=personal) 【内网穿透】【免费】
-  *  ###### [RustDesk](http://rustdesk.com/zh/) 【内网穿透】【免费】
-  *  ###### [TodoDesk](https://www.todesk.com/) 【内网穿透】【免费】
-  *  ###### [Parsec](https://parsec.app/) 【内网穿透】【免费】
-  *  ###### [Radmin](https://www.radmin.com/cn/) 【RDP协议】【付费】
-  *  ###### [FreeRDP](https://www.freerdp.com/)【RDP协议】【免费】
-  *  ###### [SecureCRT](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt)【ssh/telnet/serial】【付费】
-  *  ###### [MobaXterm](https://mobaxterm.mobatek.net/download.html)【ssh/telnet/console】【免费】
-  *  ###### [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)【ssh/telnet/console】【免费】
-  *  ###### [RealVNC](https://www.realvnc.com/en/)【VNC】【付费】
-  *  ###### [TightVNC](https://www.tightvnc.com/)【VNC】【免费】
-  *  ###### [PRemoteM](https://apps.microsoft.com/store/detail/premotem-mstsc-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9PNMNF92JNFP?hl=zh-cn&gl=cn)【VNC】【免费】
+  *  ###### [HFS](http://www.rejetto.com/hfs/?f=dl)【免费】
+  *  ###### [TFTPD32](https://tftpd32.jounin.net/) 【免费】
+  *  ###### [WinSCP](https://winscp.net/eng/index.php) 【免费】
+  *  ###### [Serv-U](http://www.serv-u.com.cn/xiazai.html) 【付费】
+  *  ###### [FileZilla](https://www.filezilla.cn/download) 【免费】
+  *  ###### [8UFTP](https://ftp.8u.cn/) 【免费】
+ 
   
 ⬆ [顶部]()
 
