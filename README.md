@@ -96,6 +96,10 @@
 * * *
 
 ### 互联网软件
+  * #### 下载器
+    *  ###### [Internet Download Manager]()【付费】
+    *  ###### [迅雷]()【免费】
+    *  ###### [easymule]()【免费】
   * #### 浏览器
     *  ###### [Chrome]() 【网络安装版】【免费】
     *  ###### [Chrome]() 【离线安装版】【免费】
@@ -196,6 +200,16 @@
    *  ###### [AMD CPU Info]()【免费】
    *  ###### [AIDA64]()【免费】
   
+* * *
+
+### 应用卸载
+   *  ###### [Geek Uninstaller]()【免费】
+   *  ###### [uninstall tool]()【免费】
+   *  ###### [Ashampoo Uninstaller]()【免费】
+   *  ###### [IObit Uninstall]()【免费】
+   *  ###### [Total Uninstall Pro]()【免费】
+   *  ###### [Revo UninstallerPro]()【免费】
+   
 * * *
 
 ### 数据恢复
