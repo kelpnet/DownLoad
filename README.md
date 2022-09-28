@@ -8,21 +8,21 @@
 【付费】【免费】
 
 ## 应用软件
-* 📁[办公应用](https://kelpnet.github.io/DownLoad/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
-* 🎨[图像处理](https://kelpnet.github.io/DownLoad/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
+* 📁[办公应用](https://qoorange.com/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
+* 🎨[图像处理](https://qoorange.com/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
 * 🔍[屏幕截图]() 
-* 🖥[远程终端](https://kelpnet.github.io/DownLoad/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
-* 📽[影音播放](https://kelpnet.github.io/DownLoad/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
-* 📰[文本编辑](https://kelpnet.github.io/DownLoad/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
-* 📤[应用卸载](https://kelpnet.github.io/DownLoad/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
-* 🌏[互联网软件](https://kelpnet.github.io/DownLoad/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
-* 🛡[计算机安全](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
-* 🔬[计算机辅助设计](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
-* ⚙[计算机辅助工程](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
-* 👨‍💻[计算机系统分析](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90)
-* 👨‍💻[计算机网络分析](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90)
-* 👨‍💻[计算机硬件分析](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%88%86%E6%9E%90)
-* 🎮[游戏](https://kelpnet.github.io/DownLoad/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
+* 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
+* 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
+* 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
+* 📤[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
+* 🌏[互联网软件](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
+* 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
+* 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
+* ⚙[计算机辅助工程](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
+* 👨‍💻[计算机系统分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90)
+* 👨‍💻[计算机网络分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90)
+* 👨‍💻[计算机硬件分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%88%86%E6%9E%90)
+* 🎮[游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
 * 💽[系统驱动]()
@@ -50,7 +50,7 @@
   *  ###### [bandi-zip](https://www.bandisoft.com/bandizip/) 【免费】
   *  ###### [winzip](https://www.winzip.com/cn/product/winzip/) 【付费】
 
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
  
 * * * 
   
@@ -69,7 +69,7 @@
   *  ###### [honeyview](https://www.bandisoft.com/honeyview/) 【免费】
   *  ###### [XnView](https://www.xnview.com/en/) 【免费】
   
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * * 
 
@@ -77,7 +77,7 @@
   *  ###### [ShareX](https://getsharex.com/) 【免费】
   *  ###### [Snipaste](https://www.snipaste.com/)【免费】
     
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * * 
     
@@ -98,7 +98,7 @@
   *  ###### [Navicat](http://www.navicat.com.cn/products)【所有数据库】【付费】
     
   
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *
 
@@ -111,7 +111,7 @@
   *  ###### [8UFTP](https://ftp.8u.cn/) 【免费】
  
   
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *
 
@@ -129,7 +129,7 @@
      *  ###### [foobar2000](https://www.foobar2000.org/download)【免费】
      *  ###### [AIMP](http://www.aimp.ru/?do=download&os=windows)【免费】
  
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *
 
@@ -139,7 +139,7 @@
  *  ###### [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.5) 【免费】
  *  ###### [UltraEditor](https://www.ultraedit.com/) 【付费】
  
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *
 
@@ -170,7 +170,7 @@
   * #### 局域网即时通讯
     *  ###### [布谷鸟sense](http://www.sisen.com/)
 
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *
 
@@ -192,7 +192,7 @@
    *  ###### [ZoneAlarm Basic Firewall](https://www.zonealarm.com/software/free-firewall) 【免费】
    *  ###### [Online Armor Free]() 【免费】
    
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
  * * *  
 
@@ -214,7 +214,7 @@
    *  ###### [BRLCAD](https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-32-6)【免费】
    *  ###### [gCAD3D](https://www.gcad3d.org/)【免费】
    
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *  
 
@@ -226,7 +226,7 @@
    *  ###### [Comsol](https://cn.comsol.com/)【付费】
    *  ###### [Matlab](https://ww2.mathworks.cn/)【付费】
    
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *   
 
@@ -236,7 +236,7 @@
    *  ###### [Dism++]()【免费】
    *  ###### [DiskGenius](https://www.diskgenius.com/)【免费】
    
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *   
 
@@ -253,7 +253,7 @@
    *  ###### [NetCat](https://netcat.sourceforge.net/download.php)【免费】
    *  ###### [NNetSpot](https://www.netspotapp.com/download-win.html)【免费】
 
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *   
 
@@ -266,7 +266,7 @@
    *  ###### [AMD CPU Info](https://www.amd.com/zh-hans/support)【免费】
    *  ###### [AIDA64](http://www.lavalys.com/products/everest-pc-diagnostics/)【免费】
    
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *
 
@@ -278,7 +278,7 @@
    *  ###### [Total Uninstall Pro](https://www.martau.com/uninstaller-download.php)【免费】
    *  ###### [Revo UninstallerPro](https://www.revouninstaller.com/start-freeware-download/)【免费】
    
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *
 
@@ -287,7 +287,7 @@
    *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html)【付费】
    *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)【免费】
    
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *   
 
@@ -295,7 +295,7 @@
    *  ###### [Recuva](https://www.ccleaner.com/zh-cn/recuva)【免费】
    *  ###### [WinHex](http://www.winhex.com/winhex/)【免费】
    
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
 * * *
 
@@ -309,7 +309,7 @@
    *  ###### [Toolsley](https://www.toolsley.com/)【免费】
    *  ###### [ExifTool](https://exiftool.org/)【免费】
    
-⬆ [顶部]() 
+⬆ [顶部](https://qoorange.com) 
 
 * * *
 
@@ -319,5 +319,5 @@
    *  ###### [跳棋]()【免费】
    *  ###### [国际象棋]()【免费】
    
-⬆ [顶部]()
+⬆ [顶部](https://qoorange.com)
 
