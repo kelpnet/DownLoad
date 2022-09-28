@@ -74,7 +74,7 @@
   *  ###### [MobarXterm]()【ssh/telnet/console】【免费】
   *  ###### [Putty]()【ssh/telnet/console】【免费】
   *  ###### [RealVNC]()【VNC】【免费】
-  *  ###### [TigerVNC]()【VNC】【免费】
+  *  ###### [TightVNC]()【VNC】【免费】
 
 * * *
 
