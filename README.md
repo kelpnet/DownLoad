@@ -32,46 +32,50 @@
 
 ### 办公应用
 * #### OFFICE 
-  *  ###### [Microsoft Office]()【付费】
-  *  ###### [Libre Office]()  【免费】
-  *  ###### [WPS]() 【免费】【付费】
+  *  ###### [Microsoft Office](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-office)【付费】
+  *  ###### [Libre Office](https://zh-cn.libreoffice.org/download/libreoffice/)【免费】
+  *  ###### [WPS](https://official-package.wpscdn.cn/wps/download/WPS_Setup_11830.exe)【免费】【个人版】
+  *  ###### [WPS](https://wps-cn-ep.ks3-cn-beijing.ksyun.com/wps/download/ep/WPS2019/WPSPro_11.8.2.11542.exe) 【付费】【企业版】
 * #### PDF 阅读器 
-  *  ###### [Adobe Reader DC]() 【免费】
-  *  ###### [SumatraPDF]() 【免费】
-  *  ###### [福昕PDF Reader]() 【免费】
+  *  ###### [Adobe Reader DC](https://get.adobe.com/cn/reader/?promoid=TTGWL47M) 【免费】
+  *  ###### [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) 【免费】
+  *  ###### [福昕PDF Reader](https://www.foxitsoftware.cn/pdf-reader/?agent=foxit&MD=syts) 【免费】
 * #### PDF 编辑器
-  *  ###### [福昕PDF 编辑器]() 【免费】
+  *  ###### [福昕PDF 编辑器](https://www.foxitsoftware.cn/) 【免费】
+  *  ###### [PDF-XChange Editor](https://pdf-xchange.eu/DL/pdf-xchange-editor.htm) 【付费】
 * #### 文件压缩
-  *  ###### [winrar]() 【免费】【付费】
-  *  ###### [7-zip]() 【免费】
-  *  ###### [360zip]() 【免费】
-  *  ###### [bandi-zip]() 【免费】
-  *  ###### [winzip]() 【收费】
+  *  ###### [winrar](https://www.rarlab.com/download.htm) 【免费】【付费】
+  *  ###### [7-zip](https://www.7-zip.org/) 【免费】
+  *  ###### [360zip](https://yasuo.360.cn/) 【免费】
+  *  ###### [bandi-zip](https://www.bandisoft.com/bandizip/) 【免费】
+  *  ###### [winzip](https://www.winzip.com/cn/product/winzip/) 【付费】
 
 ⬆ [顶部]()
  
 * * * 
   
 ###  图像处理 
-  *  ###### [Photop shop]() 【付费】
-  *  ###### [Adobe illustrator]()【付费】
-  *  ###### [Adobe indesign]()【付费】
-  *  ###### [Capture One]()【付费】
-  *  ###### [GIMP]() 【免费】
-  *  ###### [Krita]() 【免费】
-  *  ###### [看图王]() 【免费】
-  *  ###### [ACDsee]() 【免费】【付费】
-  *  ###### [Imagine]()【免费】
-  *  ###### [honeyview]() 【免费】
-  *  ###### [XnView]() 【免费】
+  *  ###### [Adobe Photop shop](https://www.adobe.com/cn/products/photoshop.html) 【付费】
+  *  ###### [Adobe illustrator](https://www.adobe.com/cn/products/illustrator.html)【付费】
+  *  ###### [Adobe indesign](https://www.adobe.com/cn/products/indesign.html)【付费】
+  *  ###### [Capture One](https://www.captureone.com/)【付费】
+  *  ###### [GIMP](https://www.gimp.org/downloads/) 【免费】
+  *  ###### [Krita](https://krita.org/zh/) 【免费】
+  *  ###### [看图王](https://pic.2345.cc/) 【免费】
+  *  ###### [CAD迷你看图](http://cad.pcw365.com/mini_view.php) 【免费】
+  *  ###### [CAD迷你看图3D](http://cad.pcw365.com/3dview.php) 【免费】
+  *  ###### [ACDsee](https://www.acdsee.cn/products/acdsee-official-free/thank-you) 【免费】【付费】
+  *  ###### [Imagine](https://github.com/meowtec/Imagine/releases)【免费】
+  *  ###### [honeyview](https://www.bandisoft.com/honeyview/) 【免费】
+  *  ###### [XnView](https://www.xnview.com/en/) 【免费】
   
 ⬆ [顶部]()
 
 * * * 
 
 ### 屏幕截图 
-  *  ###### [ShareX]() 【付费】
-  *  ###### [Snipaste]()【付费】
+  *  ###### [ShareX](https://getsharex.com/) 【免费】
+  *  ###### [Snipaste](https://www.snipaste.com/)【免费】
     
 ⬆ [顶部]()
 
@@ -79,39 +83,46 @@
     
 ### 远程终端
   *  ###### [mstsc]() 【windows系统内置】【RDP协议】【免费】
-  *  ###### [向日葵]() 【内网穿透】【免费】
-  *  ###### [RustDesk]() 【内网穿透】【免费】
-  *  ###### [TodoDesk]() 【内网穿透】【免费】
-  *  ###### [Parsec]() 【内网穿透】【免费】
-  *  ###### [Radmin]() 【RDP协议】【付费】
-  *  ###### [FreeRDP]()【RDP协议】【免费】
-  *  ###### [PcAnyWhere]()【RDP协议】【付费】
-  *  ###### [SecureCRT]()【ssh/telnet/serial】【付费】
-  *  ###### [MobarXterm]()【ssh/telnet/console】【免费】
-  *  ###### [Putty]()【ssh/telnet/console】【免费】
-  *  ###### [RealVNC]()【VNC】【免费】
-  *  ###### [TightVNC]()【VNC】【免费】
+  *  ###### [向日葵](https://sunlogin.oray.com/download?categ=personal) 【内网穿透】【免费】
+  *  ###### [RustDesk](http://rustdesk.com/zh/) 【内网穿透】【免费】
+  *  ###### [TodoDesk](https://www.todesk.com/) 【内网穿透】【免费】
+  *  ###### [Parsec](https://parsec.app/) 【内网穿透】【免费】
+  *  ###### [Radmin](https://www.radmin.com/cn/) 【RDP协议】【付费】
+  *  ###### [FreeRDP](https://www.freerdp.com/)【RDP协议】【免费】
+  *  ###### [SecureCRT](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt)【ssh/telnet/serial】【付费】
+  *  ###### [MobaXterm](https://mobaxterm.mobatek.net/download.html)【ssh/telnet/console】【免费】
+  *  ###### [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)【ssh/telnet/console】【免费】
+  *  ###### [RealVNC](https://www.realvnc.com/en/)【VNC】【付费】
+  *  ###### [TightVNC](https://www.tightvnc.com/)【VNC】【免费】
+  *  ###### [PRemoteM](https://apps.microsoft.com/store/detail/premotem-mstsc-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9PNMNF92JNFP?hl=zh-cn&gl=cn)【VNC】【免费】
   
 ⬆ [顶部]()
 
 * * *
 
-### 影音播放
- *  ###### [PotPlayer]() 【免费】
- *  ###### [VLC media player]() 【免费】
- *  ###### [MPV]() 【免费】
- *  ###### [MPC-HC]()【免费】
- *  ###### [OBS]()【免费】
+### 影音
+  * #### 视频播放
+     *  ###### [PotPlayer](https://globalpotplayer.cn/category-2.html) 【免费】
+     *  ###### [VLC media player](https://www.videolan.org/vlc/) 【免费】
+     *  ###### [MPV](https://mpv.io/installation/) 【免费】
+     *  ###### [MPC-HC]()【免费】
+* #### 直播录像
+     *  ###### [OBS](http://www.obsproject.com.cn/download/)【免费】
+     *  ###### [VMIX](https://www.vmix.com/)【付费】
+     *  ###### [KK录像机](http://www.kklxj.com/)【免费】
+* #### 音乐播放
+     *  ###### [foobar2000](https://www.foobar2000.org/download)【免费】
+     *  ###### [AIMP](http://www.aimp.ru/?do=download&os=windows)【免费】
  
 ⬆ [顶部]()
 
 * * *
 
 ### 文本编辑
- *  ###### [VS Code]() 【免费】
- *  ###### [Sublime Text]() 【免费】
- *  ###### [Notepad++]() 【免费】
- *  ###### [UltraEditor]() 【付费】
+ *  ###### [VS Code](https://code.visualstudio.com/Download) 【免费】
+ *  ###### [Sublime Text](http://www.sublimetext.com/) 【免费】
+ *  ###### [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.5) 【免费】
+ *  ###### [UltraEditor](https://www.ultraedit.com/) 【付费】
  
 ⬆ [顶部]()
 
@@ -119,9 +130,9 @@
 
 ### 互联网软件
   * #### 下载器
-    *  ###### [Internet Download Manager]()【付费】
-    *  ###### [迅雷]()【免费】
-    *  ###### [easymule]()【免费】
+    *  ###### [Internet Download Manager](https://www.internetdownloadmanager.com/)【付费】
+    *  ###### [迅雷](https://www.xunlei.com/)【免费】
+    *  ###### [bitcomet](https://www.bitcomet.com/tw/downloads)【免费】
   * #### 浏览器
     *  ###### [Chrome](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B8D5EFE80-6203-688F-9DE0-61BF2D4A04A2%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe) 【网络安装版】【免费】
     *  ###### [Chrome](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B4C9BC1C0-E978-1D45-7289-38F4DB06DECF%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe) 【离线安装版】【免费】
@@ -133,11 +144,16 @@
     *  ###### [Wechat]() 【免费】
     *  ###### [QQ]()【免费】
     *  ###### [Line]() 【免费】
+  * #### 会议
+    *  ###### [腾讯会议](https://meeting.tencent.com/activities?fromSource=sem81_gwzcw.447781123.4477849.447781162&bd_vid=10731908081721669215)【免费】
+    *  ###### [Zoom Meetings](https://zoom.us/download#client_4meeting)【免费】
   * #### 电子邮箱客户端
     *  ###### [ThunderMail](https://www.thunderbird.net/zh-CN/) 【免费】
     *  ###### [Foxmail]() 【免费】
     *  ###### [Sparkmail]() 【免费】【付费】
     *  ###### [OutLook]()  【microsoft office内置】【付费】
+  * #### 局域网即时通讯
+    *  ###### [布谷鸟sense](http://www.sisen.com/)
 
 ⬆ [顶部]()
 
@@ -145,20 +161,20 @@
 
 ### 计算机安全
  * #### 杀毒/防毒
-   *  ###### [windows defender]()  【windows 系统内置】【杀毒/防毒】【免费】
-   *  ###### [Avira]() 【杀毒/防毒】【免费】【付费】
-   *  ###### [Bitdenfender]() 【杀毒/防毒】【付费】 
-   *  ###### [卡巴斯基]()【杀毒/防毒】【免费】【付费】
-   *  ###### [MacAfee]()【杀毒/防毒】【付费】
-   *  ###### [Norton 360]()【杀毒/防毒】【付费】
-   *  ###### [360 杀毒]()【杀毒】【免费】
-   *  ###### [360 安全卫士]()【防毒】【免费】
-   *  ###### [火绒]()【防毒】【免费】
+   *  ###### [windows defender](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-defender-for-individuals)  【windows 系统内置】【杀毒/防毒】【免费】
+   *  ###### [Avira](https://www.iavira.com/downloads.html) 【杀毒/防毒】【免费】【付费】
+   *  ###### [Bitdenfender](https://www.bitdefender-cn.com/downloads/) 【杀毒/防毒】【付费】 
+   *  ###### [卡巴斯基](https://www.kaspersky.com.cn/free-antivirus)【杀毒/防毒】【免费】【付费】
+   *  ###### [MacAfee](https://www.mcafee.com/zh-cn/antivirus.html)【杀毒/防毒】【付费】
+   *  ###### [Norton 360](https://cn.norton.com/products/norton-360?inid=nortoncom_homepage_hero_products#comprehensive)【杀毒/防毒】【付费】
+   *  ###### [360 杀毒](https://sd.360.cn/)【杀毒】【免费】
+   *  ###### [360 安全卫士](https://weishi.360.cn/)【防毒】【免费】
+   *  ###### [火绒](https://www.huorong.cn/person5.html)【防毒】【免费】
  * #### 防火墙
-   *  ###### [windows defender]()【windows 系统内置】【免费】
-   *  ###### [火绒]() 【免费】
-   *  ###### [Comodo]() 【免费】 
-   *  ###### [ZoneAlarm Basic Firewall]() 【免费】
+   *  ###### [windows defender](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-defender-for-individuals)【windows 系统内置】【免费】
+   *  ###### [火绒](https://www.huorong.cn/person5.html) 【免费】
+   *  ###### [Comodo](https://www.comodo.cn/product/comodo-firewall.php) 【免费】 
+   *  ###### [ZoneAlarm Basic Firewall](https://www.zonealarm.com/software/free-firewall) 【免费】
    *  ###### [Online Armor Free]() 【免费】
    
 ⬆ [顶部]()
