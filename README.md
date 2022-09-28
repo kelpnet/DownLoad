@@ -182,31 +182,34 @@
  * * *  
 
 ### 计算机辅助设计
-   *  ###### [Autodesk CAD]()【付费】
-   *  ###### [Autodesk 3ds MAX]()【付费】
-   *  ###### [Autodesk Maya]()【付费】
-   *  ###### [SolidWorks]()【付费】
-   *  ###### [CATIA]()【付费】
-   *  ###### [NX for Design]()【付费】
-   *  ###### [Rhinoceros]() 【付费】
-   *  ###### [中望CAD]()【付费】
-   *  ###### [中望3D]()【付费】
+   *  ###### [Autodesk CAD](https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR&tab=subscription)【付费】
+   *  ###### [Autodesk 3ds MAX](https://www.autodesk.com.cn/products/3ds-max/overview?term=1-YEAR&tab=subscription)【付费】
+   *  ###### [Autodesk Maya](https://www.autodesk.com.cn/products/maya/overview?term=1-YEAR&tab=subscription)【付费】
+   *  ###### [SolidWorks](https://www.solidworks.com/zh-hans/domain/design-engineering)【付费】
+   *  ###### [CATIA](https://www.3ds.com/products-services/catia/)【付费】
+   *  ###### [NX for Design](https://www.plm.automation.siemens.com/global/en/products/nx/nx-for-design.html)【付费】
+   *  ###### [Rhinoceros](https://www.rhino3d.com/download/) 【付费】
+   *  ###### [中望CAD](https://www.zwsoft.cn/product/zwcad)【付费】
+   *  ###### [中望3D](https://www.zwsoft.cn/product/zw3d#design)【付费】
+   *  ###### [天正CAD](http://tangent.com.cn/cpzhongxin/)【付费】
    *  ###### [CAXA CAD]()【付费】
    *  ###### [CAXA 3D]()【付费】
-   *  ###### [FreeCAD]()【免费】
-   *  ###### [QCAD]()【免费】
-   *  ###### [BRLCAD]()【免费】
-   *  ###### [gCAD3D]()【免费】
+   *  ###### [FreeCAD](https://www.freecadweb.org/downloads.php)【免费】
+   *  ###### [QCAD](https://qcad.org/en/download)【免费】
+   *  ###### [BRLCAD](https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-32-6)【免费】
+   *  ###### [gCAD3D](https://www.gcad3d.org/)【免费】
    
 ⬆ [顶部]() 
 
 * * *  
 
 ### 计算机辅助工程
-   *  ###### [SIMULIA ISIGHT]() 【付费】
-   *  ###### [ANYSYS]()【付费】
-   *  ###### [Comsol]()【付费】
-   *  ###### [Matalab]()【付费】
+   *  ###### [SIMULIA ISIGHT](https://www.3ds.com/zh/products-services/simulia/products/simulation-automation-optimization/) 【付费】
+   *  ###### [SolidWorks simulation](https://www.solidworks.com/zh-hans/domain/simulation) 【付费】
+   *  ###### [中望CAE](https://www.zwsoft.cn/product/cae/zwmeshworks) 【付费】
+   *  ###### [ANYSYS](https://www.ansys.com/)【付费】
+   *  ###### [Comsol](https://cn.comsol.com/)【付费】
+   *  ###### [Matlab](https://ww2.mathworks.cn/)【付费】
    
 ⬆ [顶部]() 
 
