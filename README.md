@@ -100,6 +100,25 @@
 
 * * *
 
+### 文件传输
+  *  ###### [mstsc]() 【windows系统内置】【RDP协议】【免费】
+  *  ###### [向日葵](https://sunlogin.oray.com/download?categ=personal) 【内网穿透】【免费】
+  *  ###### [RustDesk](http://rustdesk.com/zh/) 【内网穿透】【免费】
+  *  ###### [TodoDesk](https://www.todesk.com/) 【内网穿透】【免费】
+  *  ###### [Parsec](https://parsec.app/) 【内网穿透】【免费】
+  *  ###### [Radmin](https://www.radmin.com/cn/) 【RDP协议】【付费】
+  *  ###### [FreeRDP](https://www.freerdp.com/)【RDP协议】【免费】
+  *  ###### [SecureCRT](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt)【ssh/telnet/serial】【付费】
+  *  ###### [MobaXterm](https://mobaxterm.mobatek.net/download.html)【ssh/telnet/console】【免费】
+  *  ###### [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)【ssh/telnet/console】【免费】
+  *  ###### [RealVNC](https://www.realvnc.com/en/)【VNC】【付费】
+  *  ###### [TightVNC](https://www.tightvnc.com/)【VNC】【免费】
+  *  ###### [PRemoteM](https://apps.microsoft.com/store/detail/premotem-mstsc-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9PNMNF92JNFP?hl=zh-cn&gl=cn)【VNC】【免费】
+  
+⬆ [顶部]()
+
+* * *
+
 ### 影音
   * #### 视频播放
      *  ###### [PotPlayer](https://globalpotplayer.cn/category-2.html) 【免费】
@@ -216,74 +235,83 @@
 * * *   
 
 ### 计算机系统分析
-   *  ###### [sysinternals-suite]()【免费】
-   *  ###### [SpaceSniffer]()【免费】
+   *  ###### [sysinternals-suite](https://learn.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite)【免费】
+   *  ###### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html)【免费】
    *  ###### [Dism++]()【免费】
-   *  ###### [DiskGenius]()【免费】
+   *  ###### [DiskGenius](https://www.diskgenius.com/)【免费】
    
 ⬆ [顶部]()
 
 * * *   
 
 ### 计算机网络分析
-   *  ###### [tcping]()【免费】
-   *  ###### [arping]()【免费】
-   *  ###### [tcproute]()【免费】
-   *  ###### [watchroute]()【免费】
-   *  ###### [SubnetAbacus]()【免费】
-   *  ###### [Nmap]()【免费】
-   *  ###### [wireshark]()【免费】
-   *  ###### [Fiddler]()【免费】
-   *  ###### [Microsoft Network Monintor]()【免费】
-   *  ###### [NetCat]()【免费】
-   *  ###### [NNetSpot]()【免费】
+   *  ###### [tcping](https://elifulkerson.com/projects/tcping.php)【免费】
+   *  ###### [arping](https://elifulkerson.com/projects/arp-ping.php)【免费】
+   *  ###### [tcproute](https://elifulkerson.com/projects/tcproute.php)【免费】
+   *  ###### [watchroute](https://elifulkerson.com/projects/watchroute.php)【免费】
+   *  ###### [SubnetAbacus](https://elifulkerson.com/projects/SubnetAbacus.php)【免费】
+   *  ###### [Nmap](https://nmap.org/download.html)【免费】
+   *  ###### [wireshark](https://www.wireshark.org/#download)【免费】
+   *  ###### [Fiddler](https://www.telerik.com/download/fiddler-everywhere)【免费】
+   *  ###### [Microsoft Network Monintor](https://www.microsoft.com/en-us/download/details.aspx?id=4865)【免费】
+   *  ###### [NetCat](https://netcat.sourceforge.net/download.php)【免费】
+   *  ###### [NNetSpot](https://www.netspotapp.com/download-win.html)【免费】
 
 ⬆ [顶部]() 
 
 * * *   
 
 ### 计算机硬件分析
-   *  ###### [HD Tune Pro]()【免费】
-   *  ###### [AS SSD]()【免费】
-   *  ###### [CrystalDiskInfo]()【免费】
-   *  ###### [CPU-Z]()【免费】
-   *  ###### [Processor Identification Utility]()【免费】
-   *  ###### [AMD CPU Info]()【免费】
-   *  ###### [AIDA64]()【免费】
+   *  ###### [HD Tune Pro](http://www.hdtune.com/download.html)【免费】
+   *  ###### [AS SSD](https://www.alex-is.de/PHP/fusion/downloads.php?cat_id=4&download_id=9)【免费】
+   *  ###### [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)【免费】
+   *  ###### [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html?05030303)【免费】
+   *  ###### [Processor Identification Utility](https://www.intel.com/content/www/us/en/download/12136/intel-processor-identification-utility-windows-version.html)【免费】
+   *  ###### [AMD CPU Info](https://www.amd.com/zh-hans/support)【免费】
+   *  ###### [AIDA64](http://www.lavalys.com/products/everest-pc-diagnostics/)【免费】
    
 ⬆ [顶部]() 
 
 * * *
 
 ### 应用卸载
-   *  ###### [Geek Uninstaller]()【免费】
-   *  ###### [uninstall tool]()【免费】
+   *  ###### [Geek Uninstaller](https://geekuninstaller.com/)【免费】
+   *  ###### [uninstall tool](https://crystalidea.com/uninstall-tool/download)【免费】
    *  ###### [Ashampoo Uninstaller]()【免费】
-   *  ###### [IObit Uninstall]()【免费】
-   *  ###### [Total Uninstall Pro]()【免费】
-   *  ###### [Revo UninstallerPro]()【免费】
+   *  ###### [IObit Uninstall](https://www.advancedsystemcare.cn/download/#)【免费】
+   *  ###### [Total Uninstall Pro](https://www.martau.com/uninstaller-download.php)【免费】
+   *  ###### [Revo UninstallerPro](https://www.revouninstaller.com/start-freeware-download/)【免费】
    
 ⬆ [顶部]() 
 
 * * *
 
+### 虚拟机
+   *  ###### [vmware workstation pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)【付费】
+   *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html)【付费】
+   *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)【免费】
+   
+⬆ [顶部]() 
+
+* * *   
+
 ### 数据恢复
-   *  ###### [Recuva]()【免费】
-   *  ###### [WinHex]()【免费】
+   *  ###### [Recuva](https://www.ccleaner.com/zh-cn/recuva)【免费】
+   *  ###### [WinHex](http://www.winhex.com/winhex/)【免费】
    
 ⬆ [顶部]()
 
 * * *
 
 ### 数据取证
-   *  ###### [Sleuth Kit(+Autopsy)]()【免费】
+   *  ###### [Sleuth Kit(+Autopsy)](https://sleuthkit.org/sleuthkit/download.php)【免费】
    *  ###### [Autopsy]()【免费】
-   *  ###### [Browser History]()【免费】
-   *  ###### [FTK Imager]()【免费】
+   *  ###### [Browser History](https://www.foxtonforensics.com/browser-history-viewer/)【免费】
+   *  ###### [FTK Imager](https://www.exterro.com/ftk-imager)【免费】
    *  ###### [X-Ways Forensics]()【免费】
-   *  ###### [CAINE]()【免费】
-   *  ###### [Toolsley]()【免费】
-   *  ###### [ExifTool]()【免费】
+   *  ###### [CAINE](https://www.caine-live.net/page5/page5.html)【免费】
+   *  ###### [Toolsley](https://www.toolsley.com/)【免费】
+   *  ###### [ExifTool](https://exiftool.org/)【免费】
    
 ⬆ [顶部]() 
 
