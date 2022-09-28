@@ -149,8 +149,8 @@
     *  ###### [Zoom Meetings](https://zoom.us/download#client_4meeting)【免费】
   * #### 电子邮箱客户端
     *  ###### [ThunderMail](https://www.thunderbird.net/zh-CN/) 【免费】
-    *  ###### [Foxmail]() 【免费】
-    *  ###### [Sparkmail]() 【免费】【付费】
+    *  ###### [Foxmail](https://www.foxmail.com/) 【免费】
+    *  ###### [Sparkmail](https://sparkmailapp.com/zh) 【免费】【付费】
     *  ###### [OutLook]()  【microsoft office内置】【付费】
   * #### 局域网即时通讯
     *  ###### [布谷鸟sense](http://www.sisen.com/)
