@@ -11,7 +11,7 @@
 * [远程终端](https://kelpnet.github.io/DownLoad/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
 * [影音播放](https://kelpnet.github.io/DownLoad/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
 * [文本编辑](https://kelpnet.github.io/DownLoad/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
-* [应用卸载]（https://kelpnet.github.io/DownLoad/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD）
+* [应用卸载](https://kelpnet.github.io/DownLoad/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
 * [互联网软件](https://kelpnet.github.io/DownLoad/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
 * [计算机安全](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * [计算机辅助设计](https://kelpnet.github.io/DownLoad/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
