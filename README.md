@@ -13,6 +13,7 @@
 * 🔍[屏幕截图](https://qoorange.com/#%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE) 
 * 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
+* 🎥[影音剪辑]()
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
 * 📤[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
 * 🌏[互联网软件](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
@@ -129,14 +130,33 @@
      *  ###### [foobar2000](https://www.foobar2000.org/download)【免费】
      *  ###### [AIMP](http://www.aimp.ru/?do=download&os=windows)【免费】
 
+  
+⬆ [顶部](https://qoorange.com)
+
+* * *
+
+
 ### 影音剪辑
   * #### 视频剪辑
+     *  ###### [剪映](https://lv.ulikecam.com/) 【免费】
+     *  ###### [必剪](http://bcut.drawyoo.com) 【免费】
+     *  ###### [爱剪辑](http://www.ijianji.com/） 【免费】
+     *  ###### [蜜蜂剪辑](https://www.apowersoft.com.cn/beecut-pinzhuan?apptype=aps-pin) 【免费】
+     *  ###### [绘声绘影](https://www.huishenghuiying.com.cn/) 【免费】
      *  ###### [Adobe Premiere Pro ](https://www.adobe.com/cn/products/premiere.html) 【付费】
-     *  ###### [EDIUS ](https://www.edius.net/trial.html) 【免费】
-     *  ###### [剪映](https://lv.ulikecam.com/) 【免费】
-     *  ###### [剪映](https://lv.ulikecam.com/) 【免费】
+     *  ###### [EDIUS](https://www.edius.net/trial.html) 【免费】
+     *  ###### [Lightworks](https://lwks.com/) 【付费】
+     *  ###### [avid media composer](https://lwks.com/](https://www.avid.com/zh/media-composer) 【付费】
+     *  ###### [shotcut]([https://lv.ulikecam.com/](https://www.shotcut.org/download/) 【免费】
   * #### 音频剪辑
-     *  ###### [PotPlayer](https://globalpotplayer.cn/category-2.html) 【免费】
+     *  ###### [Audacity](https://www.audacityteam.org/download/windows/) 【免费】
+     *  ###### [FL studio](https://www.flstudiochina.com/xiazai.html)【付费】
+     *  ###### [Adobe Audition](https://www.adobe.com/cn/products/audition.html)【付费】
+     *  ###### [GoldWave](https://www.goldwavechina.cn/xiazai.html)【付费】
+     *  ###### [SoundForg](https://www.soundforge.cn/)【付费】
+     *  ###### [CakeWalk Sonar](http://www.cakewalk.com/Products/SONAR)【付费】
+     *  ###### [Pro Tools](https://www.avid.com/zh/pro-tools)【付费】
+     *  ###### [samplitude](https://www.magix.com/us/music-editing/samplitude/samplitude-music-studio/)【付费】
  
 ⬆ [顶部](https://qoorange.com)
 
