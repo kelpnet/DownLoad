@@ -10,7 +10,7 @@
 ## 应用软件
 * 📁[办公应用](https://qoorange.com/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
 * 🎨[图像处理](https://qoorange.com/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
-* 🔍[屏幕截图]() 
+* 🔍[屏幕截图](https://qoorange.com/#%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE) 
 * 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
@@ -22,7 +22,7 @@
 * 👨‍💻[计算机系统分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90)
 * 👨‍💻[计算机网络分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90)
 * 👨‍💻[计算机硬件分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%88%86%E6%9E%90)
-* 🎮[游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
+* 🎮[计算机游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
 * 💽[系统驱动]()
@@ -115,19 +115,28 @@
 
 * * *
 
-### 影音
+### 影音播放
   * #### 视频播放
      *  ###### [PotPlayer](https://globalpotplayer.cn/category-2.html) 【免费】
      *  ###### [VLC media player](https://www.videolan.org/vlc/) 【免费】
      *  ###### [MPV](https://mpv.io/installation/) 【免费】
      *  ###### [MPC-HC]()【免费】
-* #### 直播录像
+  * #### 直播录像
      *  ###### [OBS](http://www.obsproject.com.cn/download/)【免费】
      *  ###### [VMIX](https://www.vmix.com/)【付费】
      *  ###### [KK录像机](http://www.kklxj.com/)【免费】
-* #### 音乐播放
+  * #### 音乐播放
      *  ###### [foobar2000](https://www.foobar2000.org/download)【免费】
      *  ###### [AIMP](http://www.aimp.ru/?do=download&os=windows)【免费】
+
+### 影音剪辑
+  * #### 视频剪辑
+     *  ###### [Adobe Premiere Pro ](https://www.adobe.com/cn/products/premiere.html) 【付费】
+     *  ###### [EDIUS ](https://www.edius.net/trial.html) 【免费】
+     *  ###### [剪映](https://lv.ulikecam.com/) 【免费】
+     *  ###### [剪映](https://lv.ulikecam.com/) 【免费】
+  * #### 音频剪辑
+     *  ###### [PotPlayer](https://globalpotplayer.cn/category-2.html) 【免费】
  
 ⬆ [顶部](https://qoorange.com)
 
@@ -313,11 +322,31 @@
 
 * * *
 
-### 游戏
+### 计算机游戏
+> 本页面只推荐必装的单机游戏，其他更多游戏，可下载安装steam游戏平台或者微软自带的应用商店
+
    *  ###### [扫雷]()【免费】
    *  ###### [蜘蛛纸牌]()【免费】
    *  ###### [跳棋]()【免费】
    *  ###### [国际象棋]()【免费】
+   *  ###### [MineCraft]()【免费】
+   *  ###### [DCSworld]()【免费】
+   *  ###### [星露谷物语]()【付费】
+   *  ###### [星际争霸2]()【免费】
+   *  ###### [文明6]()【付费】
+   *  ###### [红色警戒2]()【付费】
+   *  ###### [红色警戒3]()【付费】
+   *  ###### [植物大战僵尸]()【付费】
+   *  ###### [求生之路1]()【免费】
+   *  ###### [求生之路2]()【免费】
+   *  ###### [INSIDE]()【免费】
+   *  ###### [三位一体]()【免费】
    
 ⬆ [顶部](https://qoorange.com)
 
+### 系统驱动
+    *  ###### [Ashampoo Driver Updater](https://www.ashampoo.com/zh-cn/driver-updater)【付费】
+    *  ###### [IObit Driver Booster](https://www.iobit.com/en/recommend/iu.php?name=driver_booster_free)【免费】
+    *  ###### [AMD Driver](https://www.amd.com/zh-hans/support
+)【免费】
+    *  ###### [Intel Driver](https://www.intel.cn/content/www/cn/zh/support/detect.html)【免费】
