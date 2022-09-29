@@ -7,7 +7,7 @@
 > 软件都经过审核后才发布到这个页面上，至上能支持80%以上的日常办公娱乐需求，现供大家下载
 
 ## 软件标识
-【付费】【免费】
+【付费💰】【免费💸】
 
 ## 应用软件
 * 📁[办公应用](https://qoorange.com/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
@@ -18,7 +18,7 @@
 * 🎥[影音剪辑](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E5%89%AA%E8%BE%91)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
 * 📤[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
-* 📤[虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
+* 💾[虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
 * 🌏[互联网软件](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
@@ -36,39 +36,39 @@
 
 ### 办公应用
 * #### OFFICE 
-  *  ###### [Microsoft Office](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-office)【付费】
+  *  ###### [Microsoft Office](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-office)💰
   *  ###### [Libre Office](https://zh-cn.libreoffice.org/download/libreoffice/)【免费】
   *  ###### [WPS](https://official-package.wpscdn.cn/wps/download/WPS_Setup_11830.exe)【免费】【个人版】
-  *  ###### [WPS](https://wps-cn-ep.ks3-cn-beijing.ksyun.com/wps/download/ep/WPS2019/WPSPro_11.8.2.11542.exe) 【付费】【企业版】
+  *  ###### [WPS](https://wps-cn-ep.ks3-cn-beijing.ksyun.com/wps/download/ep/WPS2019/WPSPro_11.8.2.11542.exe)💰【企业版】
 * #### PDF 阅读器 
   *  ###### [Adobe Reader DC](https://get.adobe.com/cn/reader/?promoid=TTGWL47M) 【免费】
   *  ###### [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer) 【免费】
   *  ###### [福昕PDF Reader](https://www.foxitsoftware.cn/pdf-reader/?agent=foxit&MD=syts) 【免费】
 * #### PDF 编辑器
   *  ###### [福昕PDF 编辑器](https://www.foxitsoftware.cn/) 【免费】
-  *  ###### [PDF-XChange Editor](https://pdf-xchange.eu/DL/pdf-xchange-editor.htm) 【付费】
+  *  ###### [PDF-XChange Editor](https://pdf-xchange.eu/DL/pdf-xchange-editor.htm)💰
 * #### 文件压缩
-  *  ###### [winrar](https://www.rarlab.com/download.htm) 【免费】【付费】
+  *  ###### [winrar](https://www.rarlab.com/download.htm) 【免费】💰
   *  ###### [7-zip](https://www.7-zip.org/) 【免费】
   *  ###### [360zip](https://yasuo.360.cn/) 【免费】
   *  ###### [bandi-zip](https://www.bandisoft.com/bandizip/) 【免费】
-  *  ###### [winzip](https://www.winzip.com/cn/product/winzip/) 【付费】
+  *  ###### [winzip](https://www.winzip.com/cn/product/winzip/)💰
 
 ⬆ [顶部](https://qoorange.com)
  
 * * * 
   
 ###  图像处理 
-  *  ###### [Adobe Photop shop](https://www.adobe.com/cn/products/photoshop.html) 【付费】
-  *  ###### [Adobe illustrator](https://www.adobe.com/cn/products/illustrator.html)【付费】
-  *  ###### [Adobe indesign](https://www.adobe.com/cn/products/indesign.html)【付费】
-  *  ###### [Capture One](https://www.captureone.com/)【付费】
+  *  ###### [Adobe Photop shop](https://www.adobe.com/cn/products/photoshop.html)💰
+  *  ###### [Adobe illustrator](https://www.adobe.com/cn/products/illustrator.html)💰
+  *  ###### [Adobe indesign](https://www.adobe.com/cn/products/indesign.html)💰
+  *  ###### [Capture One](https://www.captureone.com/)💰
   *  ###### [GIMP](https://www.gimp.org/downloads/) 【免费】
   *  ###### [Krita](https://krita.org/zh/) 【免费】
   *  ###### [看图王](https://pic.2345.cc/) 【免费】
   *  ###### [CAD迷你看图](http://cad.pcw365.com/mini_view.php) 【免费】
   *  ###### [CAD迷你看图3D](http://cad.pcw365.com/3dview.php) 【免费】
-  *  ###### [ACDsee](https://www.acdsee.cn/products/acdsee-official-free/thank-you) 【免费】【付费】
+  *  ###### [ACDsee](https://www.acdsee.cn/products/acdsee-official-free/thank-you) 【免费】💰
   *  ###### [Imagine](https://github.com/meowtec/Imagine/releases)【免费】
   *  ###### [honeyview](https://www.bandisoft.com/honeyview/) 【免费】
   *  ###### [XnView](https://www.xnview.com/en/) 【免费】
@@ -93,13 +93,13 @@
   *  ###### [Parsec](https://parsec.app/) 【内网穿透】【免费】
   *  ###### [Radmin](https://www.radmin.com/cn/) 【RDP协议】【付费】
   *  ###### [FreeRDP](https://www.freerdp.com/)【RDP协议】【免费】
-  *  ###### [SecureCRT](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt)【ssh/telnet/serial】【付费】
+  *  ###### [SecureCRT](https://www.vandyke.com/cgi-bin/releases.php?product=securecrt)【ssh/telnet/serial】💰
   *  ###### [MobaXterm](https://mobaxterm.mobatek.net/download.html)【ssh/telnet/console】【免费】
   *  ###### [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)【ssh/telnet/console】【免费】
-  *  ###### [RealVNC](https://www.realvnc.com/en/)【VNC】【付费】
+  *  ###### [RealVNC](https://www.realvnc.com/en/)【VNC】💰
   *  ###### [TightVNC](https://www.tightvnc.com/)【VNC】【免费】
   *  ###### [PRemoteM](https://apps.microsoft.com/store/detail/premotem-mstsc-%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2/9PNMNF92JNFP?hl=zh-cn&gl=cn)【VNC】【免费】
-  *  ###### [Navicat](http://www.navicat.com.cn/products)【所有数据库】【付费】
+  *  ###### [Navicat](http://www.navicat.com.cn/products)【所有数据库】💰
     
   
 ⬆ [顶部](https://qoorange.com)
@@ -110,7 +110,7 @@
   *  ###### [HFS](http://www.rejetto.com/hfs/?f=dl)【免费】
   *  ###### [TFTPD32](https://tftpd32.jounin.net/) 【免费】
   *  ###### [WinSCP](https://winscp.net/eng/index.php) 【免费】
-  *  ###### [Serv-U](http://www.serv-u.com.cn/xiazai.html) 【付费】
+  *  ###### [Serv-U](http://www.serv-u.com.cn/xiazai.html)💰
   *  ###### [FileZilla](https://www.filezilla.cn/download) 【免费】
   *  ###### [8UFTP](https://ftp.8u.cn/) 【免费】
  
@@ -127,7 +127,7 @@
      *  ###### [MPC-HC]()【免费】
   * #### 直播录像
      *  ###### [OBS](http://www.obsproject.com.cn/download/)【免费】
-     *  ###### [VMIX](https://www.vmix.com/)【付费】
+     *  ###### [VMIX](https://www.vmix.com/)💰
      *  ###### [KK录像机](http://www.kklxj.com/)【免费】
   * #### 音乐播放
      *  ###### [foobar2000](https://www.foobar2000.org/download)【免费】
@@ -148,18 +148,18 @@
      *  ###### [绘声绘影](https://www.huishenghuiying.com.cn/) 【免费】
      *  ###### [Adobe Premiere Pro ](https://www.adobe.com/cn/products/premiere.html) 【付费】
      *  ###### [EDIUS](https://www.edius.net/trial.html) 【免费】
-     *  ###### [Lightworks](https://lwks.com/) 【付费】
-     *  ###### [avid media composer](https://www.avid.com/zh/media-composer)【付费】
+     *  ###### [Lightworks](https://lwks.com/)💰
+     *  ###### [avid media composer](https://www.avid.com/zh/media-composer)💰
      *  ###### [shotcut](https://www.shotcut.org/download/)【免费】
   * #### 音频剪辑
      *  ###### [Audacity](https://www.audacityteam.org/download/windows/) 【免费】
-     *  ###### [FL studio](https://www.flstudiochina.com/xiazai.html)【付费】
-     *  ###### [Adobe Audition](https://www.adobe.com/cn/products/audition.html)【付费】
-     *  ###### [GoldWave](https://www.goldwavechina.cn/xiazai.html)【付费】
-     *  ###### [SoundForg](https://www.soundforge.cn/)【付费】
-     *  ###### [CakeWalk Sonar](http://www.cakewalk.com/Products/SONAR)【付费】
-     *  ###### [Pro Tools](https://www.avid.com/zh/pro-tools)【付费】
-     *  ###### [samplitude](https://www.magix.com/us/music-editing/samplitude/samplitude-music-studio/)【付费】
+     *  ###### [FL studio](https://www.flstudiochina.com/xiazai.html)💰
+     *  ###### [Adobe Audition](https://www.adobe.com/cn/products/audition.html)💰
+     *  ###### [GoldWave](https://www.goldwavechina.cn/xiazai.html)💰
+     *  ###### [SoundForg](https://www.soundforge.cn/)💰
+     *  ###### [CakeWalk Sonar](http://www.cakewalk.com/Products/SONAR)💰
+     *  ###### [Pro Tools](https://www.avid.com/zh/pro-tools)💰
+     *  ###### [samplitude](https://www.magix.com/us/music-editing/samplitude/samplitude-music-studio/)💰
  
 ⬆ [顶部](https://qoorange.com)
 
@@ -169,7 +169,7 @@
  *  ###### [VS Code](https://code.visualstudio.com/Download) 【免费】
  *  ###### [Sublime Text](http://www.sublimetext.com/) 【免费】
  *  ###### [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.5) 【免费】
- *  ###### [UltraEditor](https://www.ultraedit.com/) 【付费】
+ *  ###### [UltraEditor](https://www.ultraedit.com/) 💰
  
 ⬆ [顶部](https://qoorange.com)
 
@@ -177,7 +177,7 @@
 
 ### 互联网软件
   * #### 下载器
-    *  ###### [Internet Download Manager](https://www.internetdownloadmanager.com/)【付费】
+    *  ###### [Internet Download Manager](https://www.internetdownloadmanager.com/)💰
     *  ###### [迅雷](https://www.xunlei.com/)【免费】
     *  ###### [bitcomet](https://www.bitcomet.com/tw/downloads)【免费】
   * #### 浏览器
@@ -197,8 +197,8 @@
   * #### 电子邮箱客户端
     *  ###### [ThunderMail](https://www.thunderbird.net/zh-CN/) 【免费】
     *  ###### [Foxmail](https://www.foxmail.com/) 【免费】
-    *  ###### [Sparkmail](https://sparkmailapp.com/zh) 【免费】【付费】
-    *  ###### [OutLook]()  【microsoft office内置】【付费】
+    *  ###### [Sparkmail](https://sparkmailapp.com/zh) 【免费】💰
+    *  ###### [OutLook]()  【microsoft office内置】💰
   * #### 局域网即时通讯
     *  ###### [布谷鸟sense](http://www.sisen.com/)
 
@@ -209,11 +209,11 @@
 ### 计算机安全
  * #### 杀毒/防毒
    *  ###### [windows defender](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-defender-for-individuals)  【windows 系统内置】【杀毒/防毒】【免费】
-   *  ###### [Avira](https://www.iavira.com/downloads.html) 【杀毒/防毒】【免费】【付费】
-   *  ###### [Bitdenfender](https://www.bitdefender-cn.com/downloads/) 【杀毒/防毒】【付费】 
-   *  ###### [卡巴斯基](https://www.kaspersky.com.cn/free-antivirus)【杀毒/防毒】【免费】【付费】
-   *  ###### [MacAfee](https://www.mcafee.com/zh-cn/antivirus.html)【杀毒/防毒】【付费】
-   *  ###### [Norton 360](https://cn.norton.com/products/norton-360?inid=nortoncom_homepage_hero_products#comprehensive)【杀毒/防毒】【付费】
+   *  ###### [Avira](https://www.iavira.com/downloads.html) 【杀毒/防毒】【免费】💰
+   *  ###### [Bitdenfender](https://www.bitdefender-cn.com/downloads/) 【杀毒/防毒】💰
+   *  ###### [卡巴斯基](https://www.kaspersky.com.cn/free-antivirus)【杀毒/防毒】【免费】💰
+   *  ###### [MacAfee](https://www.mcafee.com/zh-cn/antivirus.html)【杀毒/防毒】💰
+   *  ###### [Norton 360](https://cn.norton.com/products/norton-360?inid=nortoncom_homepage_hero_products#comprehensive)【杀毒/防毒】💰
    *  ###### [360 杀毒](https://sd.360.cn/)【杀毒】【免费】
    *  ###### [360 安全卫士](https://weishi.360.cn/)【防毒】【免费】
    *  ###### [火绒](https://www.huorong.cn/person5.html)【防毒】【免费】
@@ -229,18 +229,18 @@
  * * *  
 
 ### 计算机辅助设计
-   *  ###### [Autodesk CAD](https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR&tab=subscription)【付费】
-   *  ###### [Autodesk 3ds MAX](https://www.autodesk.com.cn/products/3ds-max/overview?term=1-YEAR&tab=subscription)【付费】
-   *  ###### [Autodesk Maya](https://www.autodesk.com.cn/products/maya/overview?term=1-YEAR&tab=subscription)【付费】
-   *  ###### [SolidWorks](https://www.solidworks.com/zh-hans/domain/design-engineering)【付费】
-   *  ###### [CATIA](https://www.3ds.com/products-services/catia/)【付费】
-   *  ###### [NX for Design](https://www.plm.automation.siemens.com/global/en/products/nx/nx-for-design.html)【付费】
-   *  ###### [Rhinoceros](https://www.rhino3d.com/download/) 【付费】
-   *  ###### [中望CAD](https://www.zwsoft.cn/product/zwcad)【付费】
-   *  ###### [中望3D](https://www.zwsoft.cn/product/zw3d#design)【付费】
-   *  ###### [天正CAD](http://tangent.com.cn/cpzhongxin/)【付费】
-   *  ###### [CAXA CAD]()【付费】
-   *  ###### [CAXA 3D]()【付费】
+   *  ###### [Autodesk CAD](https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR&tab=subscription)💰
+   *  ###### [Autodesk 3ds MAX](https://www.autodesk.com.cn/products/3ds-max/overview?term=1-YEAR&tab=subscription)💰
+   *  ###### [Autodesk Maya](https://www.autodesk.com.cn/products/maya/overview?term=1-YEAR&tab=subscription)💰
+   *  ###### [SolidWorks](https://www.solidworks.com/zh-hans/domain/design-engineering)💰
+   *  ###### [CATIA](https://www.3ds.com/products-services/catia/)💰
+   *  ###### [NX for Design](https://www.plm.automation.siemens.com/global/en/products/nx/nx-for-design.html)💰
+   *  ###### [Rhinoceros](https://www.rhino3d.com/download/)💰
+   *  ###### [中望CAD](https://www.zwsoft.cn/product/zwcad)💰
+   *  ###### [中望3D](https://www.zwsoft.cn/product/zw3d#design)💰
+   *  ###### [天正CAD](http://tangent.com.cn/cpzhongxin/)💰
+   *  ###### [CAXA CAD]()💰
+   *  ###### [CAXA 3D]()💰
    *  ###### [FreeCAD](https://www.freecadweb.org/downloads.php)【免费】
    *  ###### [QCAD](https://qcad.org/en/download)【免费】
    *  ###### [BRLCAD](https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-32-6)【免费】
@@ -251,12 +251,12 @@
 * * *  
 
 ### 计算机辅助工程
-   *  ###### [SIMULIA ISIGHT](https://www.3ds.com/zh/products-services/simulia/products/simulation-automation-optimization/) 【付费】
-   *  ###### [SolidWorks simulation](https://www.solidworks.com/zh-hans/domain/simulation) 【付费】
-   *  ###### [中望CAE](https://www.zwsoft.cn/product/cae/zwmeshworks) 【付费】
-   *  ###### [ANYSYS](https://www.ansys.com/)【付费】
-   *  ###### [Comsol](https://cn.comsol.com/)【付费】
-   *  ###### [Matlab](https://ww2.mathworks.cn/)【付费】
+   *  ###### [SIMULIA ISIGHT](https://www.3ds.com/zh/products-services/simulia/products/simulation-automation-optimization/)💰
+   *  ###### [SolidWorks simulation](https://www.solidworks.com/zh-hans/domain/simulation)💰
+   *  ###### [中望CAE](https://www.zwsoft.cn/product/cae/zwmeshworks)💰
+   *  ###### [ANYSYS](https://www.ansys.com/)💰
+   *  ###### [Comsol](https://cn.comsol.com/)💰
+   *  ###### [Matlab](https://ww2.mathworks.cn/)💰
    
 ⬆ [顶部](https://qoorange.com) 
 
@@ -315,8 +315,8 @@
 * * *
 
 ### 虚拟机
-   *  ###### [vmware workstation pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)【付费】
-   *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html)【付费】
+   *  ###### [vmware workstation pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)💰
+   *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html)💰
    *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)【免费】
    
 ⬆ [顶部](https://qoorange.com) 
@@ -354,22 +354,22 @@
    *  ###### [国际象棋]()【免费】
    *  ###### [MineCraft]()【免费】
    *  ###### [DCSworld]()【免费】
-   *  ###### [星露谷物语]()【付费】
+   *  ###### [星露谷物语]()💰
    *  ###### [星际争霸2]()【免费】
-   *  ###### [文明6]()【付费】
-   *  ###### [红色警戒2]()【付费】
-   *  ###### [红色警戒3]()【付费】
-   *  ###### [植物大战僵尸]()【付费】
-   *  ###### [求生之路1]()【免费】
-   *  ###### [求生之路2]()【免费】
-   *  ###### [INSIDE]()【免费】
-   *  ###### [三位一体]()【免费】
+   *  ###### [文明6]()💰
+   *  ###### [红色警戒2]()💰
+   *  ###### [红色警戒3]()💰
+   *  ###### [植物大战僵尸]()💰
+   *  ###### [求生之路1]()💰
+   *  ###### [求生之路2]()💰
+   *  ###### [INSIDE]()💰
+   *  ###### [三位一体]()💰
    
 ⬆ [顶部](https://qoorange.com)
 
 ### 系统驱动
 
-   *  ###### [Ashampoo Driver Updater](https://www.ashampoo.com/zh-cn/driver-updater)【付费】
+   *  ###### [Ashampoo Driver Updater](https://www.ashampoo.com/zh-cn/driver-updater)💰
    *  ###### [IObit Driver Booster](https://www.iobit.com/en/recommend/iu.php?name=driver_booster_free)【免费】
    *  ###### [AMD Driver](https://www.amd.com/zh-hans/support)【免费】
    *  ###### [Intel Driver](https://www.intel.cn/content/www/cn/zh/support/detect.html)【免费】
