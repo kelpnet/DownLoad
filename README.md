@@ -13,9 +13,10 @@
 * 🔍[屏幕截图](https://qoorange.com/#%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE) 
 * 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
-* 🎥[影音剪辑]()
+* 🎥[影音剪辑](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E5%89%AA%E8%BE%91)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
 * 📤[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
+* 📤[虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
 * 🌏[互联网软件](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
@@ -26,7 +27,7 @@
 * 🎮[计算机游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
-* 💽[系统驱动]()
+* 💽[系统驱动](https://qoorange.com/#%E7%B3%BB%E7%BB%9F%E9%A9%B1%E5%8A%A8)
 * 💿[系统映像]()
 
 * * * 
@@ -140,14 +141,14 @@
   * #### 视频剪辑
      *  ###### [剪映](https://lv.ulikecam.com/) 【免费】
      *  ###### [必剪](http://bcut.drawyoo.com) 【免费】
-     *  ###### [爱剪辑](http://www.ijianji.com/） 【免费】
-     *  ###### [蜜蜂剪辑](https://www.apowersoft.com.cn/beecut-pinzhuan?apptype=aps-pin) 【免费】
+     *  ###### [爱剪辑](http://www.ijianji.com/)【免费】
+     *  ###### [蜜蜂剪辑](https://www.apowersoft.com.cn/beecut-pinzhuan?apptype=aps-pin)【免费】
      *  ###### [绘声绘影](https://www.huishenghuiying.com.cn/) 【免费】
      *  ###### [Adobe Premiere Pro ](https://www.adobe.com/cn/products/premiere.html) 【付费】
      *  ###### [EDIUS](https://www.edius.net/trial.html) 【免费】
      *  ###### [Lightworks](https://lwks.com/) 【付费】
-     *  ###### [avid media composer](https://lwks.com/](https://www.avid.com/zh/media-composer) 【付费】
-     *  ###### [shotcut]([https://lv.ulikecam.com/](https://www.shotcut.org/download/) 【免费】
+     *  ###### [avid media composer](https://www.avid.com/zh/media-composer)【付费】
+     *  ###### [shotcut](https://www.shotcut.org/download/)【免费】
   * #### 音频剪辑
      *  ###### [Audacity](https://www.audacityteam.org/download/windows/) 【免费】
      *  ###### [FL studio](https://www.flstudiochina.com/xiazai.html)【付费】
@@ -367,6 +368,7 @@
 ### 系统驱动
     *  ###### [Ashampoo Driver Updater](https://www.ashampoo.com/zh-cn/driver-updater)【付费】
     *  ###### [IObit Driver Booster](https://www.iobit.com/en/recommend/iu.php?name=driver_booster_free)【免费】
-    *  ###### [AMD Driver](https://www.amd.com/zh-hans/support
-)【免费】
+    *  ###### [AMD Driver](https://www.amd.com/zh-hans/support)【免费】
     *  ###### [Intel Driver](https://www.intel.cn/content/www/cn/zh/support/detect.html)【免费】
+    
+⬆ [顶部](https://qoorange.com)
