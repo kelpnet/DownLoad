@@ -17,7 +17,7 @@
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
 * 🎥[影音剪辑](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E5%89%AA%E8%BE%91)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
-* 📤[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
+*  🗑[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
 * 💾[虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
 * 🌏[互联网通讯](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
 * 📚[学术文献]()
@@ -26,9 +26,11 @@
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
 * ⚙[计算机辅助工程](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
+* 👨‍💻[计算机管理工具](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 * 👨‍💻[计算机系统分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90)
 * 👨‍💻[计算机网络分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90)
 * 👨‍💻[计算机硬件分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%88%86%E6%9E%90)
+* 👨‍💻[计算机开发工具](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 * 🎮[计算机游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
