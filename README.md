@@ -7,6 +7,56 @@
 ## 软件标识
 >  💸[免费]  💰[付费]  💸💰[个人版/企业版(专业版)]  ⬆ [点击返回目录] 请点击[软件查找助手]()快速搜索软件👈
 
+<script language="JavaScript">
+var NS4 = (document.layers);
+var IE4 = (document.all);
+// window to search.
+var win = window;
+var n = 0;
+function findInPage(str) {
+var txt, i, found;
+if (str == "")
+return false;
+if (NS4) {
+if (!win.find(str))
+while(win.find(str, false, true))
+n++;
+else
+n++;
+if (n == 0)
+alert("Not found.");
+}
+if (IE4) {
+txt = win.document.body.createTextRange();
+for (i = 0; i <= n && (found = txt.findText(str)) != false; i++) {
+txt.moveStart("character", 1);
+txt.moveEnd("textedit");
+}
+if (found) {
+txt.moveStart("character", -1);
+txt.findText(str);
+txt.select();
+txt.scrollIntoView();
+n++;
+}
+else {
+if (n > 0) {
+n = 0;
+findInPage(str);
+}
+else
+alert("Not found.");
+}
+}
+return false;
+}
+</script>
+</p>
+<form name="search" onSubmit="return findInPage(this.string.value);">
+<input name="string" type="text" size=20 onChange="n = 0;">
+<input type="submit" value="Find">
+</form>
+
 ## 应用软件
 * 📁[办公应用](https://qoorange.com/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
 * 🎨[图像处理](https://qoorange.com/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
