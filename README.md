@@ -2,60 +2,10 @@
 
 > 这是一个windows软件下载的页面，它可能没那么全，但至少让你下载安装的软件没有捆绑软件，该页面托管于Github,由专业IT人员运营
 
-> 软件都经过审核后才发布到这个页面上，至上能支持80%以上的日常办公娱乐需求，现供大家下载
+> 软件都经过审核后才发布到这个页面上，除了在线存储软件，至上能支持80%以上的日常办公娱乐需求，现供大家下载
 
 ## 软件标识
->  💸[免费]  💰[付费]  💸💰[个人版/企业版(专业版)]  ⬆ [点击返回目录] 请点击[软件查找助手]()快速搜索软件👈
-
-<script language="JavaScript">
-var NS4 = (document.layers);
-var IE4 = (document.all);
-// window to search.
-var win = window;
-var n = 0;
-function findInPage(str) {
-var txt, i, found;
-if (str == "")
-return false;
-if (NS4) {
-if (!win.find(str))
-while(win.find(str, false, true))
-n++;
-else
-n++;
-if (n == 0)
-alert("Not found.");
-}
-if (IE4) {
-txt = win.document.body.createTextRange();
-for (i = 0; i <= n && (found = txt.findText(str)) != false; i++) {
-txt.moveStart("character", 1);
-txt.moveEnd("textedit");
-}
-if (found) {
-txt.moveStart("character", -1);
-txt.findText(str);
-txt.select();
-txt.scrollIntoView();
-n++;
-}
-else {
-if (n > 0) {
-n = 0;
-findInPage(str);
-}
-else
-alert("Not found.");
-}
-}
-return false;
-}
-</script>
-
-<form name="search" onSubmit="return findInPage(this.string.value);">
-<input name="string" type="text" size=20 onChange="n = 0;">
-<input type="submit" value="Find">
-</form>
+>  💸[免费]  💰[付费]  💸💰[个人版/企业版(专业版)]  ⬆ [点击返回目录] 请点击[软件查找]()快速搜索软件👈
 
 ## 应用软件
 * 📁[办公应用](https://qoorange.com/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
@@ -119,9 +69,17 @@ return false;
   *  ###### [PROMT](https://www.promt.com/translation_software/home/forwindows/)💰
   *  ###### [Rverso](https://www.reverso.net/text-translation)💸
 
-* #### 记事本   
-  *  ###### []() 💸
-  *  ###### []() 💰
+* #### 笔记便笺   
+  *  ###### [印象笔记](https://www.yinxiang.com/) 💸
+  *  ###### [有道云笔记](https://note.youdao.com/) 💸
+  *  ###### [语雀云笔记](https://www.yuque.com/)) 💸
+  *  ###### [石墨文档](https://shimo.im/download/) 💸💰
+  *  ###### [敬业签](https://www.jingyeqian.com/xiazai/)  💸
+  *  ###### [随手写](https://www.suishouxie.com/#/)  💸
+  *  ###### [WPS笔记](https://note.wps.cn/landingPC.html?cb=https%3A%2F%2Fnote.wps.cn%2F)  💸
+  *  ###### [为知笔记](https://www.wiz.cn/zh-cn) 💰
+  *  ###### [OneNote](https://www.onenote.com/download/)  💸💰
+  *  
 
 [⬆](https://qoorange.com)
 * * * 
