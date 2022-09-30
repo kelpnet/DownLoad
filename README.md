@@ -267,7 +267,7 @@
 
 * * *   
 
-* ### 计算机系统管理
+### 计算机系统管理
  * #### 计算机资源分析
     *  ###### [sysinternals-suite](https://learn.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite)  💸
     *  ###### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html)  💸
