@@ -26,11 +26,11 @@
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
 * ⚙[计算机辅助工程](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
-* 👨‍💻[计算机管理工具](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
+* 👨‍💻[计算机系统管理](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 * 👨‍💻[计算机系统分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90)
 * 👨‍💻[计算机网络分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90)
 * 👨‍💻[计算机硬件分析](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%88%86%E6%9E%90)
-* 👨‍💻[计算机开发工具](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
+* 👨‍💻[计算机软件开发](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 * 🎮[计算机游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
@@ -267,17 +267,14 @@
 
 * * *   
 
-### 计算机系统分析
-   *  ###### [sysinternals-suite](https://learn.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite)  💸
-   *  ###### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html)  💸
-   *  ###### [Dism++]()  💸
-   *  ###### [DiskGenius](https://www.diskgenius.com/)  💸
+* ### 计算机系统管理
+ * #### 计算机资源分析
+    *  ###### [sysinternals-suite](https://learn.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite)  💸
+    *  ###### [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html)  💸
+    *  ###### [Dism++]()  💸
+    *  ###### [DiskGenius](https://www.diskgenius.com/)  💸
    
-⬆ [顶部](https://qoorange.com)
-
-* * *   
-
-### 计算机网络分析
+ * #### 计算机网络分析
    *  ###### [tcping](https://elifulkerson.com/projects/tcping.php)  💸
    *  ###### [arping](https://elifulkerson.com/projects/arp-ping.php)  💸
    *  ###### [tcproute](https://elifulkerson.com/projects/tcproute.php)  💸
@@ -290,11 +287,7 @@
    *  ###### [NetCat](https://netcat.sourceforge.net/download.php)  💸
    *  ###### [NNetSpot](https://www.netspotapp.com/download-win.html)  💸
 
-⬆ [顶部](https://qoorange.com) 
-
-* * *   
-
-### 计算机硬件分析
+* #### 计算机硬件分析
    *  ###### [HD Tune Pro](http://www.hdtune.com/download.html)  💸
    *  ###### [AS SSD](https://www.alex-is.de/PHP/fusion/downloads.php?cat_id=4&download_id=9)  💸
    *  ###### [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)  💸
