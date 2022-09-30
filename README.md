@@ -39,7 +39,7 @@
 
 * * * 
 
-### 办公应用   [⬆](https://qoorange.com)                                                                     
+### 办公应用                                                                
 * #### OFFICE 
   *  ###### [Microsoft Office](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-office) 💰
   *  ###### [Libre Office](https://zh-cn.libreoffice.org/download/libreoffice/) 💸
