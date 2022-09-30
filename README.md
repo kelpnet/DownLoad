@@ -51,7 +51,7 @@ alert("Not found.");
 return false;
 }
 </script>
-</p>
+
 <form name="search" onSubmit="return findInPage(this.string.value);">
 <input name="string" type="text" size=20 onChange="n = 0;">
 <input type="submit" value="Find">
