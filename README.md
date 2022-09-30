@@ -12,6 +12,8 @@
 * 🎨[图像处理](https://qoorange.com/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
 * 🔍[屏幕截图](https://qoorange.com/#%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE) 
 * 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
+* 🗂[文件传输](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
+* 🗄[共享存储](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
 * 🎥[影音剪辑](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E5%89%AA%E8%BE%91)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
