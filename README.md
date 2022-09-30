@@ -7,7 +7,7 @@
 > 软件都经过审核后才发布到这个页面上，至上能支持80%以上的日常办公娱乐需求，现供大家下载
 
 ## 软件标识
-【付费💰】【免费💸】
+>  💸[免费]  💰[付费]  💸💰[个人版/企业版(专业版)]  ⬆ [点击返回目录] 
 
 ## 应用软件
 * 📁[办公应用](https://qoorange.com/#%E5%8A%9E%E5%85%AC%E5%BA%94%E7%94%A8) 
@@ -41,7 +41,7 @@
 
 * * * 
 
-### 办公应用
+### 办公应用   [⬆](https://qoorange.com)                                                                     
 * #### OFFICE 
   *  ###### [Microsoft Office](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-office) 💰
   *  ###### [Libre Office](https://zh-cn.libreoffice.org/download/libreoffice/) 💸
@@ -71,13 +71,11 @@
   *  ###### [PROMT](https://www.promt.com/translation_software/home/forwindows/)💰
   *  ###### [Rverso](https://www.reverso.net/text-translation)💸
 
-* #### 记事本
+* #### 记事本   
   *  ###### []() 💸
   *  ###### []() 💰
 
-
-⬆ [顶部](https://qoorange.com)
- 
+[⬆](https://qoorange.com)
 * * * 
   
 ###  图像处理 
@@ -95,7 +93,7 @@
   *  ###### [honeyview](https://www.bandisoft.com/honeyview/) 💸
   *  ###### [XnView](https://www.xnview.com/en/) 💸
   
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * * 
 
@@ -103,7 +101,7 @@
   *  ###### [ShareX](https://getsharex.com/) 💸
   *  ###### [Snipaste](https://www.snipaste.com/) 💸
     
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * * 
     
@@ -124,7 +122,7 @@
   *  ###### [Navicat](http://www.navicat.com.cn/products)【所有数据库】 💰
     
   
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -135,7 +133,7 @@
   *  ###### [onedriver](http://www.serv-u.com.cn/xiazai.html) 💰
   
   
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -148,7 +146,7 @@
   *  ###### [8UFTP](https://ftp.8u.cn/) 💸
  
   
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -161,7 +159,7 @@
   *  ###### [8UFTP](https://ftp.8u.cn/) 💸
  
   
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -180,7 +178,7 @@
      *  ###### [AIMP](http://www.aimp.ru/?do=download&os=windows) 💸
 
   
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -207,7 +205,7 @@
      *  ###### [Pro Tools](https://www.avid.com/zh/pro-tools) 💰
      *  ###### [samplitude](https://www.magix.com/us/music-editing/samplitude/samplitude-music-studio/) 💰
  
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -218,7 +216,7 @@
  *  ###### [UltraEditor](https://www.ultraedit.com/)  💰
  *  ###### [typora](https://www.ultraedit.com/)  💰
  
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -249,7 +247,7 @@
   * #### 局域网即时通讯
     *  ###### [布谷鸟sense](http://www.sisen.com/)  💸
 
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -271,7 +269,7 @@
    *  ###### [ZoneAlarm Basic Firewall](https://www.zonealarm.com/software/free-firewall)  💸
    *  ###### [Online Armor Free]()  💸
    
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
  * * *  
 
@@ -293,7 +291,7 @@
    *  ###### [BRLCAD](https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-32-6)  💸
    *  ###### [gCAD3D](https://www.gcad3d.org/)  💸
    
-⬆ [顶部](https://qoorange.com) 
+[⬆](https://qoorange.com)
 
 * * *  
 
@@ -305,7 +303,7 @@
    *  ###### [Comsol](https://cn.comsol.com/) 💰
    *  ###### [Matlab](https://ww2.mathworks.cn/) 💰
    
-⬆ [顶部](https://qoorange.com) 
+[⬆](https://qoorange.com)
 
 * * *   
 
@@ -338,7 +336,7 @@
    *  ###### [AMD CPU Info](https://www.amd.com/zh-hans/support) 💸
    *  ###### [AIDA64](http://www.lavalys.com/products/everest-pc-diagnostics/)  💸
    
-⬆ [顶部](https://qoorange.com) 
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -350,7 +348,7 @@
    *  ###### [Total Uninstall Pro](https://www.martau.com/uninstaller-download.php)  💸
    *  ###### [Revo UninstallerPro](https://www.revouninstaller.com/start-freeware-download/)  💸
    
-⬆ [顶部](https://qoorange.com) 
+[⬆](https://qoorange.com) 
 
 * * *
 
@@ -359,7 +357,7 @@
    *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html) 💰
    *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)  💸
    
-⬆ [顶部](https://qoorange.com) 
+[⬆](https://qoorange.com)
 
 * * *   
 
@@ -367,7 +365,7 @@
    *  ###### [Recuva](https://www.ccleaner.com/zh-cn/recuva)  💸
    *  ###### [WinHex](http://www.winhex.com/winhex/)  💸
    
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -381,7 +379,7 @@
    *  ###### [Toolsley](https://www.toolsley.com/) 💸
    *  ###### [ExifTool](https://exiftool.org/) 💸
    
-⬆ [顶部](https://qoorange.com) 
+[⬆](https://qoorange.com)
 
 * * *
 
@@ -405,7 +403,7 @@
    *  ###### [INSIDE]() 💰
    *  ###### [三位一体]() 💰
    
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
 
 ### 系统驱动
 
@@ -414,4 +412,4 @@
    *  ###### [AMD Driver](https://www.amd.com/zh-hans/support) 💸
    *  ###### [Intel Driver](https://www.intel.cn/content/www/cn/zh/support/detect.html) 💸
     
-⬆ [顶部](https://qoorange.com)
+[⬆](https://qoorange.com)
