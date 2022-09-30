@@ -12,16 +12,16 @@
 * 🎨[图像处理](https://qoorange.com/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
 * 🔍[屏幕截图](https://qoorange.com/#%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE) 
 * 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
-* 🗄[共享存储](https://https://qoorange.com/#%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8)
+* 🗄[共享存储](https://qoorange.com/#%E5%AD%98%E5%82%A8)
 * 🗂[文件传输](https://qoorange.com/#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
 * 🎥[影音剪辑](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E5%89%AA%E8%BE%91)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
 *  🗑[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
 * 🌏[互联网通讯](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
-* 📚[学术文献]()
-* 🗜[格式转换]()
-* 💽[映像转换]()
+* 📚[学术文献](https://qoorange.com/#%E5%AD%A6%E6%9C%AF%E6%96%87%E7%8C%AE)
+* 🗜[格式转换](https://qoorange.com/#%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2)
+* 💽[映像转换](https://qoorange.com/#%E6%98%A0%E5%83%8F%E8%BD%AC%E6%8D%A2)
 * ⌛[数据备份]()
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
@@ -136,7 +136,7 @@
 
 * * *
 
-### 存储
+### 共享存储
   *  ###### [坚果云盘](http://www.rejetto.com/hfs/?f=dl) 💸
   *  ###### [百度网盘](https://tftpd32.jounin.net/)  💸
   *  ###### [阿里云盘](https://winscp.net/eng/index.php)  💸
