@@ -19,7 +19,10 @@
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
 * 📤[应用卸载](https://qoorange.com/#%E5%BA%94%E7%94%A8%E5%8D%B8%E8%BD%BD)
 * 💾[虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
-* 🌏[互联网软件](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
+* 🌏[互联网通讯](https://qoorange.com/#%E4%BA%92%E8%81%94%E7%BD%91%E8%BD%AF%E4%BB%B6)
+* 📚[学术文献]()
+* 🗜[格式转换]()
+* 💽[映像转换]()
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
 * ⚙[计算机辅助工程](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
@@ -29,7 +32,7 @@
 * 🎮[计算机游戏](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)
 
 ## 系统软件
-* 💽[系统驱动](https://qoorange.com/#%E7%B3%BB%E7%BB%9F%E9%A9%B1%E5%8A%A8)
+* 📀[系统驱动](https://qoorange.com/#%E7%B3%BB%E7%BB%9F%E9%A9%B1%E5%8A%A8)
 * 💿[系统映像]()
 
 * * * 
@@ -145,7 +148,7 @@
      *  ###### [必剪](http://bcut.drawyoo.com) 💸
      *  ###### [爱剪辑](http://www.ijianji.com/) 💸
      *  ###### [蜜蜂剪辑](https://www.apowersoft.com.cn/beecut-pinzhuan?apptype=aps-pin) 💸
-     *  ###### [绘声绘影](https://www.huishenghuiying.com.cn/) 💸
+     *  ###### [绘声绘影](https://www.huishenghuiying.com.cn/) 💰
      *  ###### [Adobe Premiere Pro ](https://www.adobe.com/cn/products/premiere.html) 💰
      *  ###### [EDIUS](https://www.edius.net/trial.html) 💸
      *  ###### [Lightworks](https://lwks.com/) 💰
