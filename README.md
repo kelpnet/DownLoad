@@ -22,7 +22,7 @@
 * 📚[学术文献](https://qoorange.com/#%E5%AD%A6%E6%9C%AF%E6%96%87%E7%8C%AE)
 * 🗜[格式转换](https://qoorange.com/#%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2)
 * 💽[映像转换](https://qoorange.com/#%E6%98%A0%E5%83%8F%E8%BD%AC%E6%8D%A2)
-* ⌛[数据备份]()
+* ⌛[数据备份](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD)
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
 * ⚙[计算机辅助工程](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
@@ -161,12 +161,12 @@
 * * *
 
 ### 数据备份
-  *  ###### [](http://www.rejetto.com/hfs/?f=dl) 💸
-  *  ###### [TFTPD32](https://tftpd32.jounin.net/)  💸
-  *  ###### [WinSCP](https://winscp.net/eng/index.php)  💸
-  *  ###### [Serv-U](http://www.serv-u.com.cn/xiazai.html) 💰
-  *  ###### [FileZilla](https://www.filezilla.cn/download)  💸
-  *  ###### [8UFTP](https://ftp.8u.cn/) 💸
+  *  ###### [freefilesync](https://freefilesync.org/download.php) 💸
+  *  ###### [disksync](https://www.disksync.cn/) 💸💰
+  *  ###### [GoodSync](https://www.goodsync.com/cn/)  💸
+  *  ###### [CrashPlan](https://www.crashplan.com/en-us/) 💰
+  *  ###### [Areca](http://www.areca-backup.org/)  💸
+  *  ###### [comodo backup](https://www.comodo.cn/product/backup.php) 💸
  
   
 [⬆](https://qoorange.com)
