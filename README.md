@@ -12,8 +12,8 @@
 * 🎨[图像处理](https://qoorange.com/#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
 * 🔍[屏幕截图](https://qoorange.com/#%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE) 
 * 🖥[远程终端](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
-* 🗂[文件传输](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
-* 🗄[共享存储](https://qoorange.com/#%E8%BF%9C%E7%A8%8B%E7%BB%88%E7%AB%AF)
+* 🗄[共享存储](https://https://qoorange.com/#%E6%96%87%E4%BB%B6%E5%AD%98%E5%82%A8)
+* 🗂[文件传输](https://qoorange.com/#%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93)
 * 📽[影音播放](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE)
 * 🎥[影音剪辑](https://qoorange.com/#%E5%BD%B1%E9%9F%B3%E5%89%AA%E8%BE%91)
 * 📰[文本编辑](https://qoorange.com/#%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91)
@@ -22,6 +22,7 @@
 * 📚[学术文献]()
 * 🗜[格式转换]()
 * 💽[映像转换]()
+* ⌛[数据备份]()
 * 🛡[计算机安全](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AE%89%E5%85%A8)
 * 🔬[计算机辅助设计](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1)
 * ⚙[计算机辅助工程](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E5%B7%A5%E7%A8%8B)
@@ -135,7 +136,7 @@
 
 * * *
 
-### 文件存储
+### 存储
   *  ###### [坚果云盘](http://www.rejetto.com/hfs/?f=dl) 💸
   *  ###### [百度网盘](https://tftpd32.jounin.net/)  💸
   *  ###### [阿里云盘](https://winscp.net/eng/index.php)  💸
@@ -160,7 +161,7 @@
 * * *
 
 ### 数据备份
-  *  ###### [HFS](http://www.rejetto.com/hfs/?f=dl) 💸
+  *  ###### [](http://www.rejetto.com/hfs/?f=dl) 💸
   *  ###### [TFTPD32](https://tftpd32.jounin.net/)  💸
   *  ###### [WinSCP](https://winscp.net/eng/index.php)  💸
   *  ###### [Serv-U](http://www.serv-u.com.cn/xiazai.html) 💰
@@ -234,6 +235,7 @@
     *  ###### [Internet Download Manager](https://www.internetdownloadmanager.com/) 💰
     *  ###### [迅雷](https://www.xunlei.com/) 💸
     *  ###### [bitcomet](https://www.bitcomet.com/tw/downloads) 💸
+    *  ###### [emeule](https://www.emulefans.com/news/) 💸
   * #### 浏览器
     *  ###### [Chrome](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B8D5EFE80-6203-688F-9DE0-61BF2D4A04A2%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe) 【网络安装版】 💸
     *  ###### [Chrome](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B4C9BC1C0-E978-1D45-7289-38F4DB06DECF%7D%26lang%3Dzh-CN%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe) 【离线安装版】 💸
@@ -260,10 +262,48 @@
 
 * * *
 
+###  学术文献
+   *  ###### [Endnote](https://endnote.com/) 💰 
+   *  ###### [Zotero](https://www.zotero.org/) 💸 
+   *  ###### [Mendeley](https://www.mendeley.com/download-reference-manager/windows) 💸 
+   *  ###### [NoteExpress](http://www.inoteexpress.com/aegean/index.php/home/ne/index.html) 💰
+
+[⬆](https://qoorange.com)
+
+* * *
+
+###  格式转换
+   *  ###### [小丸工具箱](https://maruko.appinn.me/) 💸 
+   *  ###### [格式工厂](http://www.pcgeshi.com/index.html) 💸  
+   *  ###### [AVS Video Converter](https://www.avs4you.com/downloads.aspx) 💸 
+   *  ###### [imazing heic converter](https://imazing.com/converter) 💸 💰
+   *  ###### [CyberLink MediaEspresso Deluxe](https://cn.cyberlink.com/products/index_zh_CN.html) 💸 
+   *  ###### [xmedia recode](https://xmedia-recode.de/en/) 💸 
+   *  ###### [epubo](https://www.epubor.com/) 💸 💰
+   *  ###### [UniConverter](https://videoconverter.wondershare.com/gif/movie-to-gif.html#:~:text=Best%2011%20Free%20Movie%20to%20GIF%20Converter%20Online,Online-Convert%20...%208%208.%20HNET%20...%20More%20items) 💸 💰
+   *  ###### [wonderfox]([https://www.epubor.com/](https://www.videoconverterfactory.com/) 💸 💰
+
+[⬆](https://qoorange.com)
+
+* * *
+
+###  映像转换
+   *  ###### [UltraISO](https://cn.ultraiso.net/xiazai.html) 💰 
+   *  ###### [rufus](http://rufus.ie/downloads/) 💸  
+   *  ###### [Daemon Tools](https://www.daemon-tools.cc/chn/downloads) 💰  
+   *  ###### [WinCDEmu](https://wincdemu.sysprogs.org/) 💸 
+   *  ###### [Poweriso](https://poweriso.com/download.htm) 💸 💰
+  
+[⬆](https://qoorange.com)
+
+* * *
+
 ### 计算机安全
  * #### 杀毒/防毒
    *  ###### [windows defender](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-defender-for-individuals)  【windows 系统内置】【杀毒/防毒】  💸
    *  ###### [Avira](https://www.iavira.com/downloads.html) 【杀毒/防毒】 💸 💰
+   *  ###### [Avast](https://www.avast.com/zh-cn/free-antivirus-download#pc) 【杀毒/防毒】 💸 💰
+   *  ###### [Eset](https://www.eset.com.cn/) 【杀毒/防毒】 💰
    *  ###### [Bitdenfender](https://www.bitdefender-cn.com/downloads/) 【杀毒/防毒】 💰
    *  ###### [卡巴斯基](https://www.kaspersky.com.cn/free-antivirus)【杀毒/防毒】  💸 💰
    *  ###### [MacAfee](https://www.mcafee.com/zh-cn/antivirus.html)【杀毒/防毒】 💰
@@ -299,6 +339,13 @@
    *  ###### [QCAD](https://qcad.org/en/download)  💸
    *  ###### [BRLCAD](https://github.com/BRL-CAD/brlcad/releases/tag/rel-7-32-6)  💸
    *  ###### [gCAD3D](https://www.gcad3d.org/)  💸
+   *  ###### [Altium](https://www.altium.com/)  💰
+   *  ###### [powerpcb](https://www.pcbpower.com/)  💰
+   *  ###### [Allegro](https://www.allegromicro.com/en/)  💰
+   *  ###### [orcad](https://www.orcad.com/)  💰
+   *  ###### [cam350](https://www.downstreamtech.com/)  💰
+   *  ###### [KiCad](http://www.kicad.org/download/)  💸
+   *  ###### [FreePCB](http://www.freepcb.com/downloads.htm)  💸
    
 [⬆](https://qoorange.com)
 
@@ -311,7 +358,22 @@
    *  ###### [ANYSYS](https://www.ansys.com/) 💰
    *  ###### [Comsol](https://cn.comsol.com/) 💰
    *  ###### [Matlab](https://ww2.mathworks.cn/) 💰
+   *  ###### [InfoWorks ICM](https://www.autodesk.com.cn/products/infoworks-icm/overview) 💰
+   *  ###### [SWMM](https://www.epa.gov/water-research/storm-water-management-model-swmm#software%20and%20compatibility) 💸
+   *  ###### [MIKE](https://www.mikepoweredbydhi.com/download/mike-2022) 💸
+   *  ###### [Sobek Urban](https://www.deltares.nl/en/software/sobek/) 💸
+   *  ###### [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/download.aspx) 💸
+   *  ###### [Delft 3D](https://www.deltares.nl/en/software/delft3d-flexible-mesh-suite/) 💸
+   *  ###### [MODFLOW](https://water.usgs.gov/water-resources/software/MODFLOW-6/) 💸
+   *  ###### [FEFLOW](https://www.mikepoweredbydhi.com/products/feflow) 💸
+   *  ###### [epanet](https://www.epa.gov/water-research/epanet) 💸
+   *  ###### [waterCAD](https://www.bentley.com/software/openflows-watercad/) 💰
+   *  ###### [H2ONET](https://www.innovyze.com/en-us/solutions-products) 💰
+   *  ###### [Biowin](https://envirosim.com/products) 💰
+   *  ###### [WEST++](https://www.mikepoweredbydhi.com/products/west) 💰
+  
    
+  
 [⬆](https://qoorange.com)
 
 * * *   
@@ -365,6 +427,12 @@
    *  ###### [vmware workstation pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html) 💰
    *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html) 💰
    *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)  💸
+   *  ###### [HCL]()  💸
+   *  ###### [Cisco packet]() 💸
+   *  ###### [eve-ng]() 💸
+   *  ###### [GNS3]() 💸
+   *  ###### [Planet]() 💸
+   *  ###### [ENSP]()  💸
    
 [⬆](https://qoorange.com)
 
