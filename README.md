@@ -60,6 +60,21 @@
   *  ###### [360zip](https://yasuo.360.cn/) 💸
   *  ###### [bandi-zip](https://www.bandisoft.com/bandizip/) 💸
   *  ###### [winzip](https://www.winzip.com/cn/product/winzip/) 💰
+* #### 文本翻译
+  *  ###### [Bing词典](https://bingdict.chinacloudsites.cn/download?tag=BDPDV) 💸
+  *  ###### [deepl](https://www.deepl.com/zh/app/) 💸
+  *  ###### [babylon](https://www.babylon-software.com/)💸
+  *  ###### [有道翻译](https://cidian.youdao.com/?bd_vid=11708384698136303319&keyfrom=baidu_pc#/) 💸
+  *  ###### [百度翻译](https://fanyi.baidu.com/home) 💸
+  *  ###### [金山词霸](http://cp.iciba.com/)💸
+  *  ###### [imtranslator](https://imtranslator.net/)💸
+  *  ###### [PROMT](https://www.promt.com/translation_software/home/forwindows/)💰
+  *  ###### [Rverso](https://www.reverso.net/text-translation)💸
+
+* #### 记事本
+  *  ###### []() 💸
+  *  ###### []() 💰
+
 
 ⬆ [顶部](https://qoorange.com)
  
@@ -113,7 +128,31 @@
 
 * * *
 
+### 文件存储
+  *  ###### [坚果云盘](http://www.rejetto.com/hfs/?f=dl) 💸
+  *  ###### [百度网盘](https://tftpd32.jounin.net/)  💸
+  *  ###### [阿里云盘](https://winscp.net/eng/index.php)  💸
+  *  ###### [onedriver](http://www.serv-u.com.cn/xiazai.html) 💰
+  
+  
+⬆ [顶部](https://qoorange.com)
+
+* * *
+
 ### 文件传输
+  *  ###### [HFS](http://www.rejetto.com/hfs/?f=dl) 💸
+  *  ###### [TFTPD32](https://tftpd32.jounin.net/)  💸
+  *  ###### [WinSCP](https://winscp.net/eng/index.php)  💸
+  *  ###### [Serv-U](http://www.serv-u.com.cn/xiazai.html) 💰
+  *  ###### [FileZilla](https://www.filezilla.cn/download)  💸
+  *  ###### [8UFTP](https://ftp.8u.cn/) 💸
+ 
+  
+⬆ [顶部](https://qoorange.com)
+
+* * *
+
+### 数据备份
   *  ###### [HFS](http://www.rejetto.com/hfs/?f=dl) 💸
   *  ###### [TFTPD32](https://tftpd32.jounin.net/)  💸
   *  ###### [WinSCP](https://winscp.net/eng/index.php)  💸
@@ -177,6 +216,7 @@
  *  ###### [Sublime Text](http://www.sublimetext.com/) 💸
  *  ###### [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.5) 💸
  *  ###### [UltraEditor](https://www.ultraedit.com/)  💰
+ *  ###### [typora](https://www.ultraedit.com/)  💰
  
 ⬆ [顶部](https://qoorange.com)
 
