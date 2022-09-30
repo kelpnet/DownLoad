@@ -72,16 +72,17 @@
 * #### 笔记便笺   
   *  ###### [印象笔记](https://www.yinxiang.com/) 💸
   *  ###### [有道云笔记](https://note.youdao.com/) 💸
-  *  ###### [语雀云笔记](https://www.yuque.com/)) 💸
+  *  ###### [语雀云笔记](https://www.yuque.com/) 💸
   *  ###### [石墨文档](https://shimo.im/download/) 💸💰
   *  ###### [敬业签](https://www.jingyeqian.com/xiazai/)  💸
   *  ###### [随手写](https://www.suishouxie.com/#/)  💸
   *  ###### [WPS笔记](https://note.wps.cn/landingPC.html?cb=https%3A%2F%2Fnote.wps.cn%2F)  💸
   *  ###### [为知笔记](https://www.wiz.cn/zh-cn) 💰
   *  ###### [OneNote](https://www.onenote.com/download/)  💸💰
-  *  
+  
 
 [⬆](https://qoorange.com)
+
 * * * 
   
 ###  图像处理 
