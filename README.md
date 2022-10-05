@@ -411,6 +411,15 @@
 
 * * *
 
+### 计算机程序集成开发软件
+   * ##### [visualstudio](https://visualstudio.microsoft.com/zh-hans/vs/)
+   * ##### [JetBrains](https://www.jetbrains.com.cn/clion/promo/?bd_vid=8952955656813745258)
+   * ##### [eclipse](https://www.eclipse.org/downloads/)
+   
+[⬆](https://qoorange.com)
+
+* * *
+
 ### 应用卸载
    *  ###### [Geek Uninstaller](https://geekuninstaller.com/)  💸
    *  ###### [uninstall tool](https://crystalidea.com/uninstall-tool/download)  💸
@@ -482,13 +491,17 @@
 
 ###  系统映像
   #### windows 桌面系统
+  
   > windows 8.1以下版本过于陈旧，不再推荐使用，官方也已下架下载渠道，注意，系统下载是免费下载，但是系统激活需要激活码
+
    *  ###### [windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) 
    *  ###### [windows 10](https://www.microsoft.com/zh-cn/software-download/windows10) 
    *  ###### [windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO) 
   #### windows 服务器系统
    *  ###### [windows server 2019](https://www.microsoft.com/zh-CN/windows-server/trial)
-  
+
+[⬆](https://qoorange.com)
+
 * * *
 
 ### 虚拟机
@@ -503,6 +516,8 @@
    *  ###### [GNS3](https://www.gns3.com/) 💸
    *  ###### [Planet](https://pnetlab.com/pages/main) 💸
   
+[⬆](https://qoorange.com)
+
 * * *
 
 ### 数据库软件
@@ -510,10 +525,9 @@
    * ##### [Oracle](https://www.oracle.com/cn/database/technologies/oracle-database-software-downloads.html)
    * ##### [MySQL](https://dev.mysql.com/downloads/mysql/)
 
-### 计算机程序集成开发软件
-   * ##### [visualstudio](https://visualstudio.microsoft.com/zh-hans/vs/)
-   * ##### [JetBrains](https://www.jetbrains.com.cn/clion/promo/?bd_vid=8952955656813745258)
-   * ##### [eclipse](https://www.eclipse.org/downloads/)
+[⬆](https://qoorange.com)
+
+* * *
   
 ### 计算机程序框架
    * ##### [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
@@ -524,6 +538,8 @@
    * ##### [Ruby](http://www.ruby-lang.org/zh_cn/)
    * ##### [Golang](https://golang.google.cn/)
    
+[⬆](https://qoorange.com)
+
 * * *
 
 ### 中间件
@@ -534,7 +550,10 @@
    * ##### [apache](https://httpd.apache.org/download.cgi#apache24)
    * ##### [NGINX](https://nginx.org/en/download.html)
    * ##### [JBOSS](https://developers.redhat.com/products/eap/overview?referrer=jbd)
-   
+
+[⬆](https://qoorange.com)
+
+* * *   
 
 
 
