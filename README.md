@@ -35,7 +35,7 @@
 * 💿[系统映像]()
 * 🔩[系统虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
 * 🗄[数据库系统]()
-* 👨‍💻[计算机程序语言]()
+* 👨‍💻[计算机程序]()
 
 ## 中间件
  
@@ -498,18 +498,43 @@
    *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)  💸
 #### 网络设备模拟器
    *  ###### [HCL](http://www.h3c.com/cn/d_202108/1434872_30005_0.htm)  💸
-   *  ###### [Cisco packet]() 💸
-   *  ###### [eve-ng]() 💸
-   *  ###### [GNS3]() 💸
-   *  ###### [Planet]() 💸
-   *  ###### [ENSP]()  💸
+   *  ###### [Cisco packet tracer](https://dl.softmgr.qq.com/original/Office/PacketTracer7.2.1forWindows_64bit.zip) 💸
+   *  ###### [eve-ng](https://www.eve-ng.net/index.php/download/) 💸
+   *  ###### [GNS3](https://www.gns3.com/) 💸
+   *  ###### [Planet](https://pnetlab.com/pages/main) 💸
   
 * * *
 
 ### 数据库软件
-   * ##### [microsoft SQL SERVER]()
+   * ##### [microsoft SQL SERVER](https://www.microsoft.com/zh-cn/evalcenter/evaluate-sql-server-2019?filetype=EXE)
+   * ##### [Oracle](https://www.oracle.com/cn/database/technologies/oracle-database-software-downloads.html)
+   * ##### [MySQL](https://dev.mysql.com/downloads/mysql/)
 
+### 计算机程序集成开发软件
+   * ##### [visualstudio](https://visualstudio.microsoft.com/zh-hans/vs/)
+   * ##### [JetBrains](https://www.jetbrains.com.cn/clion/promo/?bd_vid=8952955656813745258)
+   * ##### [eclipse](https://www.eclipse.org/downloads/)
+  
+### 计算机程序框架
+   * ##### [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
+   * ##### [JDK](https://www.oracle.com/java/technologies/downloads/#java8-windows)
+   * ##### [JRE](https://www.oracle.com/java/technologies/downloads/#jre8-windows)
+   * ##### [PHP](https://windows.php.net/download#php-8.1)
+   * ##### [Python](https://www.python.org/downloads/)
+   * ##### [Ruby](http://www.ruby-lang.org/zh_cn/)
+   * ##### [Golang](https://golang.google.cn/)
+   
+* * *
 
+### 中间件
+   * ##### [windows系统内置IIS]
+   * ##### [weblogic](https://www.oracle.com/middleware/technologies/fusionmiddleware-downloads.html)
+   * ##### [websphere](https://www.ibm.com/support/pages/installation-manager-and-packaging-utility-download-documents#ibm-content)
+   * ##### [tomcat](https://tomcat.apache.org/download-10.cgi)
+   * ##### [apache](https://httpd.apache.org/download.cgi#apache24)
+   * ##### [NGINX](https://nginx.org/en/download.html)
+   * ##### [JBOSS](https://developers.redhat.com/products/eap/overview?referrer=jbd)
+   
 
 
 
