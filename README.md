@@ -490,15 +490,16 @@
 * * *
 
 ###  系统映像
- #### windows 桌面系统
+
+ * #### windows 桌面系统
   
-  > windows 8.1以下版本过于陈旧，不再推荐使用，官方也已下架下载渠道，注意，系统下载是免费下载，但是系统激活需要激活码
+   > windows 8.1以下版本过于陈旧，不再推荐使用，官方也已下架下载渠道，注意，系统下载是免费下载，但是系统激活需要激活码
 
    *  ###### [windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) 
    *  ###### [windows 10](https://www.microsoft.com/zh-cn/software-download/windows10) 
    *  ###### [windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO)    
     
- #### windows 服务器系统
+ * #### windows 服务器系统
             
    *  ###### [windows server 2019](https://www.microsoft.com/zh-CN/windows-server/trial)
 
