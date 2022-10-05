@@ -421,22 +421,7 @@
    
 [⬆](https://qoorange.com) 
 
-* * *
-
-### 虚拟机
-   *  ###### [vmware workstation pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html) 💰
-   *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html) 💰
-   *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)  💸
-   *  ###### [HCL]()  💸
-   *  ###### [Cisco packet]() 💸
-   *  ###### [eve-ng]() 💸
-   *  ###### [GNS3]() 💸
-   *  ###### [Planet]() 💸
-   *  ###### [ENSP]()  💸
-   
-[⬆](https://qoorange.com)
-
-* * *   
+* * *  
 
 ### 数据恢复
    *  ###### [Recuva](https://www.ccleaner.com/zh-cn/recuva)  💸
@@ -482,6 +467,8 @@
    
 [⬆](https://qoorange.com)
 
+* * *
+
 ### 系统驱动
 
    *  ###### [Ashampoo Driver Updater](https://www.ashampoo.com/zh-cn/driver-updater) 💰
@@ -490,3 +477,39 @@
    *  ###### [Intel Driver](https://www.intel.cn/content/www/cn/zh/support/detect.html) 💸
     
 [⬆](https://qoorange.com)
+
+* * *
+
+###  系统映像
+  #### windows 桌面系统
+  > windows 8.1以下版本过于陈旧，不再推荐使用，官方也已下架下载渠道，注意，系统下载是免费下载，但是系统激活需要激活码
+   *  ###### [windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) 
+   *  ###### [windows 10](https://www.microsoft.com/zh-cn/software-download/windows10) 
+   *  ###### [windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO) 
+  #### windows 服务器系统
+   *  ###### [windows server 2019](https://www.microsoft.com/zh-CN/windows-server/trial)
+  
+* * *
+
+### 虚拟机
+#### 桌面系统虚拟机
+   *  ###### [vmware workstation pro](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html) 💰
+   *  ###### [vmware workstation player](https://www.vmware.com/products/workstation-player.html) 💰
+   *  ###### [Vitrual Box](https://www.virtualbox.org/wiki/Downloads)  💸
+#### 网络设备模拟器
+   *  ###### [HCL](http://www.h3c.com/cn/d_202108/1434872_30005_0.htm)  💸
+   *  ###### [Cisco packet]() 💸
+   *  ###### [eve-ng]() 💸
+   *  ###### [GNS3]() 💸
+   *  ###### [Planet]() 💸
+   *  ###### [ENSP]()  💸
+  
+* * *
+
+### 数据库软件
+   * ##### [microsoft SQL SERVER]()
+
+
+
+
+
