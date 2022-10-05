@@ -32,12 +32,12 @@
 
 ## 系统软件
 * 📀[系统驱动](https://qoorange.com/#%E7%B3%BB%E7%BB%9F%E9%A9%B1%E5%8A%A8)
-* 💿[系统映像]()
+* 💿[系统映像](https://qoorange.com/#%E7%B3%BB%E7%BB%9F%E6%98%A0%E5%83%8F)
 * 🔩[系统虚拟机](https://qoorange.com/#%E8%99%9A%E6%8B%9F%E6%9C%BA)
-* 🗄[数据库系统]()
-* 👨‍💻[计算机程序]()
+* 🗄[数据库软件](https://qoorange.com/#%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6)
+* 👨‍💻[计算机程序](https://qoorange.com/#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E6%A1%86%E6%9E%B6)
 
-## 中间件
+## [中间件](https://qoorange.com/#%E4%B8%AD%E9%97%B4%E4%BB%B6-1)
  
 
 * * * 
@@ -490,14 +490,16 @@
 * * *
 
 ###  系统映像
-  #### windows 桌面系统
+ #### windows 桌面系统
   
   > windows 8.1以下版本过于陈旧，不再推荐使用，官方也已下架下载渠道，注意，系统下载是免费下载，但是系统激活需要激活码
 
    *  ###### [windows 11](https://www.microsoft.com/zh-cn/software-download/windows11) 
    *  ###### [windows 10](https://www.microsoft.com/zh-cn/software-download/windows10) 
-   *  ###### [windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO) 
-  #### windows 服务器系统
+   *  ###### [windows 8.1](https://www.microsoft.com/zh-cn/software-download/windows8ISO)    
+    
+ #### windows 服务器系统
+            
    *  ###### [windows server 2019](https://www.microsoft.com/zh-CN/windows-server/trial)
 
 [⬆](https://qoorange.com)
