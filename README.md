@@ -301,6 +301,8 @@
 ### 计算机安全
  * #### 杀毒/防毒
    *  ###### [windows defender](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-defender-for-individuals)  【windows 系统内置】【杀毒/防毒】  💸
+   *  ###### [McAfee](https://www.microsoft.com/zh-cn/microsoft-365/microsoft-defender-for-individuals) 【杀毒/防毒】 💰
+   *  ###### [Dr.Web](https://www.bing.com/ck/a?!&&p=b45ab5999fb9c841JmltdHM9MTY2NTI3MzYwMCZpZ3VpZD0zYTMwZjk1Mi1kMTJiLTZjODktMmVjNS1lOGE2ZDAyYTZkM2UmaW5zaWQ9NTE3MA&ptn=3&hsh=3&fclid=3a30f952-d12b-6c89-2ec5-e8a6d02a6d3e&psq=dr.web&u=a1aHR0cHM6Ly93d3cuZHJ3ZWIuY29tLw&ntb=1) 【杀毒/防毒】 💰
    *  ###### [Avira](https://www.iavira.com/downloads.html) 【杀毒/防毒】 💸 💰
    *  ###### [Avast](https://www.avast.com/zh-cn/free-antivirus-download#pc) 【杀毒/防毒】 💸 💰
    *  ###### [Eset](https://www.eset.com.cn/) 【杀毒/防毒】 💰
