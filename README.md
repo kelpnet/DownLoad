@@ -1,4 +1,4 @@
- <h3> <img src = "https://github.com/kelpnet/netwiki/blob/main/windoc/img/windows_11_logo.png?raw=true" width = "120" height="120"  />  windows软件下载 </h3> 
+ <h3> ![logo]()  windows软件下载 </h3> 
 
 > 这是一个windows软件下载的页面，它可能没那么全，但至少让你下载安装的软件没有捆绑软件，该页面由专业IT人员运营   软件经过审核后才发布到这个页面上，至上能支持80%以上的日常办公娱乐需求，供大家下载。
 
